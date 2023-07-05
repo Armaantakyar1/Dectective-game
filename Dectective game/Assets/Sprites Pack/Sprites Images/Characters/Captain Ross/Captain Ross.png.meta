@@ -1,0 +1,6853 @@
+fileFormatVersion: 2
+guid: e8c8f11a4165440bdb1c369a5e1cf22c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3349147722950085467
+    second: Captain Ross_0
+  - first:
+      213: -4526104665352045277
+    second: Captain Ross_1
+  - first:
+      213: -2268311082656546794
+    second: Captain Ross_2
+  - first:
+      213: -7870626178220415064
+    second: Captain Ross_3
+  - first:
+      213: -6980493173861820399
+    second: Captain Ross_4
+  - first:
+      213: -7842693385846185617
+    second: Captain Ross_5
+  - first:
+      213: 5380885981331846596
+    second: Captain Ross_6
+  - first:
+      213: -5877736891061019668
+    second: Captain Ross_7
+  - first:
+      213: -1699128053164482216
+    second: Captain Ross_8
+  - first:
+      213: -8288412231148425558
+    second: Captain Ross_9
+  - first:
+      213: 4754654561955313889
+    second: Captain Ross_10
+  - first:
+      213: 1490410208621053413
+    second: Captain Ross_11
+  - first:
+      213: -1495061352521828755
+    second: Captain Ross_12
+  - first:
+      213: 4475748028125000737
+    second: Captain Ross_13
+  - first:
+      213: 782184781514110229
+    second: Captain Ross_14
+  - first:
+      213: -7410183342493753421
+    second: Captain Ross_15
+  - first:
+      213: 6549341384219648295
+    second: Captain Ross_16
+  - first:
+      213: -626147116317242691
+    second: Captain Ross_17
+  - first:
+      213: 8408500114723980895
+    second: Captain Ross_18
+  - first:
+      213: -5862576600351491692
+    second: Captain Ross_19
+  - first:
+      213: -8300516109474218227
+    second: Captain Ross_20
+  - first:
+      213: 7472386597127420101
+    second: Captain Ross_21
+  - first:
+      213: 2647061081466586004
+    second: Captain Ross_22
+  - first:
+      213: -8838956441333432791
+    second: Captain Ross_23
+  - first:
+      213: 3881754127411202476
+    second: Captain Ross_24
+  - first:
+      213: -237323748302836235
+    second: Captain Ross_25
+  - first:
+      213: -5187714640678505655
+    second: Captain Ross_26
+  - first:
+      213: -5196790114137884982
+    second: Captain Ross_27
+  - first:
+      213: 6191204062609017873
+    second: Captain Ross_28
+  - first:
+      213: -7855124378679177207
+    second: Captain Ross_29
+  - first:
+      213: 9175852335725464224
+    second: Captain Ross_30
+  - first:
+      213: 5672625628969555117
+    second: Captain Ross_31
+  - first:
+      213: -946687524455529727
+    second: Captain Ross_32
+  - first:
+      213: 4093693347044218768
+    second: Captain Ross_33
+  - first:
+      213: 2257964960866811691
+    second: Captain Ross_34
+  - first:
+      213: 705384965607455307
+    second: Captain Ross_35
+  - first:
+      213: 6885825373009595839
+    second: Captain Ross_36
+  - first:
+      213: 1148599023317111755
+    second: Captain Ross_37
+  - first:
+      213: -9155245391931005959
+    second: Captain Ross_38
+  - first:
+      213: -8407293316014520604
+    second: Captain Ross_39
+  - first:
+      213: 7438566370255383857
+    second: Captain Ross_40
+  - first:
+      213: 3677433141795467107
+    second: Captain Ross_41
+  - first:
+      213: -3562648617310306713
+    second: Captain Ross_42
+  - first:
+      213: 4381372840282710583
+    second: Captain Ross_43
+  - first:
+      213: -8139843759181303736
+    second: Captain Ross_44
+  - first:
+      213: -4089260391825678241
+    second: Captain Ross_45
+  - first:
+      213: 1006277125709285175
+    second: Captain Ross_46
+  - first:
+      213: -2173399758604975860
+    second: Captain Ross_47
+  - first:
+      213: -3692950594603511031
+    second: Captain Ross_48
+  - first:
+      213: 7830511157950695028
+    second: Captain Ross_49
+  - first:
+      213: -7955887144478036635
+    second: Captain Ross_50
+  - first:
+      213: -5827638936851077797
+    second: Captain Ross_51
+  - first:
+      213: -3481588564377937724
+    second: Captain Ross_52
+  - first:
+      213: -6613851400182773029
+    second: Captain Ross_53
+  - first:
+      213: -3603350177279161841
+    second: Captain Ross_54
+  - first:
+      213: 4264102758257365717
+    second: Captain Ross_55
+  - first:
+      213: 1086029882080162563
+    second: Captain Ross_56
+  - first:
+      213: -639280791834338860
+    second: Captain Ross_57
+  - first:
+      213: -1738138701314556751
+    second: Captain Ross_58
+  - first:
+      213: 4104511798812445804
+    second: Captain Ross_59
+  - first:
+      213: 7345039888127158400
+    second: Captain Ross_60
+  - first:
+      213: 1223436033064762703
+    second: Captain Ross_61
+  - first:
+      213: -8420468263107468254
+    second: Captain Ross_62
+  - first:
+      213: -5544841534928886821
+    second: Captain Ross_63
+  - first:
+      213: 7376581088053146361
+    second: Captain Ross_64
+  - first:
+      213: -1358856141491834868
+    second: Captain Ross_65
+  - first:
+      213: 5748268272817815556
+    second: Captain Ross_66
+  - first:
+      213: -87325588791895904
+    second: Captain Ross_67
+  - first:
+      213: 6724391596918217791
+    second: Captain Ross_68
+  - first:
+      213: 6509756066871183283
+    second: Captain Ross_69
+  - first:
+      213: 2310771137538724687
+    second: Captain Ross_70
+  - first:
+      213: 6209882996961630546
+    second: Captain Ross_71
+  - first:
+      213: -1904978669839870960
+    second: Captain Ross_72
+  - first:
+      213: -1781780895346358173
+    second: Captain Ross_73
+  - first:
+      213: -7684937533095593650
+    second: Captain Ross_74
+  - first:
+      213: -29535290684984378
+    second: Captain Ross_75
+  - first:
+      213: -8429790830175434048
+    second: Captain Ross_76
+  - first:
+      213: -1008815302900050172
+    second: Captain Ross_77
+  - first:
+      213: 7985401047917898815
+    second: Captain Ross_78
+  - first:
+      213: 6078274085113449560
+    second: Captain Ross_79
+  - first:
+      213: 3583834923835501201
+    second: Captain Ross_80
+  - first:
+      213: -6816198014866112460
+    second: Captain Ross_81
+  - first:
+      213: -3863231606437316481
+    second: Captain Ross_82
+  - first:
+      213: 8247574856525285601
+    second: Captain Ross_83
+  - first:
+      213: -8866002719246221695
+    second: Captain Ross_84
+  - first:
+      213: -9195121403108475978
+    second: Captain Ross_85
+  - first:
+      213: 5404676975954817710
+    second: Captain Ross_86
+  - first:
+      213: 2136523204177508762
+    second: Captain Ross_87
+  - first:
+      213: -5254153859839861570
+    second: Captain Ross_88
+  - first:
+      213: 2204321274400210800
+    second: Captain Ross_89
+  - first:
+      213: -5166774938159612545
+    second: Captain Ross_90
+  - first:
+      213: 6553275983385639191
+    second: Captain Ross_91
+  - first:
+      213: -8476596983837286698
+    second: Captain Ross_92
+  - first:
+      213: 8645748072106539569
+    second: Captain Ross_93
+  - first:
+      213: 1645792817269814177
+    second: Captain Ross_94
+  - first:
+      213: 3781833853458330646
+    second: Captain Ross_95
+  - first:
+      213: -6207828133601775302
+    second: Captain Ross_96
+  - first:
+      213: -4530533604590413493
+    second: Captain Ross_97
+  - first:
+      213: -8476943952689706849
+    second: Captain Ross_98
+  - first:
+      213: -3013409737087062445
+    second: Captain Ross_99
+  - first:
+      213: 6411686835523382728
+    second: Captain Ross_100
+  - first:
+      213: -1676979534349230276
+    second: Captain Ross_101
+  - first:
+      213: 989846651880610912
+    second: Captain Ross_102
+  - first:
+      213: 3428326107174815814
+    second: Captain Ross_103
+  - first:
+      213: -3718610511292066895
+    second: Captain Ross_104
+  - first:
+      213: 8836069376336754034
+    second: Captain Ross_105
+  - first:
+      213: 3444426404242684856
+    second: Captain Ross_106
+  - first:
+      213: 1687662139002627189
+    second: Captain Ross_107
+  - first:
+      213: 5343360692691846055
+    second: Captain Ross_108
+  - first:
+      213: -701503498207937681
+    second: Captain Ross_109
+  - first:
+      213: 4511527154275472840
+    second: Captain Ross_110
+  - first:
+      213: 6206690077983872067
+    second: Captain Ross_111
+  - first:
+      213: 3255865959328966942
+    second: Captain Ross_112
+  - first:
+      213: 276713708185358131
+    second: Captain Ross_113
+  - first:
+      213: 5007933446405151727
+    second: Captain Ross_114
+  - first:
+      213: 2282945933935489735
+    second: Captain Ross_115
+  - first:
+      213: 900608807251875702
+    second: Captain Ross_116
+  - first:
+      213: -7449197505795140241
+    second: Captain Ross_117
+  - first:
+      213: -2421308521345286551
+    second: Captain Ross_118
+  - first:
+      213: -2353309286755604167
+    second: Captain Ross_119
+  - first:
+      213: -5960616008615285217
+    second: Captain Ross_120
+  - first:
+      213: 3052040079481325178
+    second: Captain Ross_121
+  - first:
+      213: -1392519902123460957
+    second: Captain Ross_122
+  - first:
+      213: 8019436307806146747
+    second: Captain Ross_123
+  - first:
+      213: 4617674805384041727
+    second: Captain Ross_124
+  - first:
+      213: -1009671475870077904
+    second: Captain Ross_125
+  - first:
+      213: -2022848231312185859
+    second: Captain Ross_126
+  - first:
+      213: -4313948890721452834
+    second: Captain Ross_127
+  - first:
+      213: -4847942856201470023
+    second: Captain Ross_128
+  - first:
+      213: 57520032487305378
+    second: Captain Ross_129
+  - first:
+      213: -8863417736199348423
+    second: Captain Ross_130
+  - first:
+      213: -1968984360976403346
+    second: Captain Ross_131
+  - first:
+      213: 8933521994619308825
+    second: Captain Ross_132
+  - first:
+      213: -5416292877250696830
+    second: Captain Ross_133
+  - first:
+      213: 3482420348122287290
+    second: Captain Ross_134
+  - first:
+      213: -722649503080489793
+    second: Captain Ross_135
+  - first:
+      213: -5238112000763930768
+    second: Captain Ross_136
+  - first:
+      213: 5405528554547220753
+    second: Captain Ross_137
+  - first:
+      213: 2682144571307398104
+    second: Captain Ross_138
+  - first:
+      213: 1130520803471419124
+    second: Captain Ross_139
+  - first:
+      213: 3875018877619131406
+    second: Captain Ross_140
+  - first:
+      213: 6561345561715475533
+    second: Captain Ross_141
+  - first:
+      213: -1242520082162900685
+    second: Captain Ross_142
+  - first:
+      213: -8238369676536347256
+    second: Captain Ross_143
+  - first:
+      213: -6082462894836575610
+    second: Captain Ross_144
+  - first:
+      213: 450499075020651898
+    second: Captain Ross_145
+  - first:
+      213: -4791742393436173127
+    second: Captain Ross_146
+  - first:
+      213: -5202467013298974931
+    second: Captain Ross_147
+  - first:
+      213: -1180678992472647586
+    second: Captain Ross_148
+  - first:
+      213: -1014169890809593069
+    second: Captain Ross_149
+  - first:
+      213: -5204333938628501840
+    second: Captain Ross_150
+  - first:
+      213: 7016090515873329897
+    second: Captain Ross_151
+  - first:
+      213: 61798615821263322
+    second: Captain Ross_152
+  - first:
+      213: 5602734380083933270
+    second: Captain Ross_153
+  - first:
+      213: 1814069395512885955
+    second: Captain Ross_154
+  - first:
+      213: 6753890585642905717
+    second: Captain Ross_155
+  - first:
+      213: -8077061555236836600
+    second: Captain Ross_156
+  - first:
+      213: -1280472540314591975
+    second: Captain Ross_157
+  - first:
+      213: -5556987672800327175
+    second: Captain Ross_158
+  - first:
+      213: 7603680205940411384
+    second: Captain Ross_159
+  - first:
+      213: -6622107157011430756
+    second: Captain Ross_160
+  - first:
+      213: -6315987472333814088
+    second: Captain Ross_161
+  - first:
+      213: 6993349092607046451
+    second: Captain Ross_162
+  - first:
+      213: -1904024790482448794
+    second: Captain Ross_163
+  - first:
+      213: 1332333492398264736
+    second: Captain Ross_164
+  - first:
+      213: -3929802135534841306
+    second: Captain Ross_165
+  - first:
+      213: -5233077041208061707
+    second: Captain Ross_166
+  - first:
+      213: -1216383166656296422
+    second: Captain Ross_167
+  - first:
+      213: 8584359814209352691
+    second: Captain Ross_168
+  - first:
+      213: -6849838802569082740
+    second: Captain Ross_169
+  - first:
+      213: -8796208763424596752
+    second: Captain Ross_170
+  - first:
+      213: 1313983520861668848
+    second: Captain Ross_171
+  - first:
+      213: 5290925734551856068
+    second: Captain Ross_172
+  - first:
+      213: 6231762838291343370
+    second: Captain Ross_173
+  - first:
+      213: 3326276218375043436
+    second: Captain Ross_174
+  - first:
+      213: -8119743125757491880
+    second: Captain Ross_175
+  - first:
+      213: -5167870856585541745
+    second: Captain Ross_176
+  - first:
+      213: -4485306652763664216
+    second: Captain Ross_177
+  - first:
+      213: -5307612131268497384
+    second: Captain Ross_178
+  - first:
+      213: -638776575952998842
+    second: Captain Ross_179
+  - first:
+      213: 2163944784233356930
+    second: Captain Ross_180
+  - first:
+      213: -3829538390744128130
+    second: Captain Ross_181
+  - first:
+      213: 8119276850039253515
+    second: Captain Ross_182
+  - first:
+      213: -5564029141080380553
+    second: Captain Ross_183
+  - first:
+      213: -8952104032338806313
+    second: Captain Ross_184
+  - first:
+      213: 8490861651044852739
+    second: Captain Ross_185
+  - first:
+      213: -1685418621636618837
+    second: Captain Ross_186
+  - first:
+      213: -409779998551733956
+    second: Captain Ross_187
+  - first:
+      213: -1278447455942973231
+    second: Captain Ross_188
+  - first:
+      213: -5090299112320124300
+    second: Captain Ross_189
+  - first:
+      213: -8015140991915917290
+    second: Captain Ross_190
+  - first:
+      213: -3988859189429617795
+    second: Captain Ross_191
+  - first:
+      213: -2401535730977711635
+    second: Captain Ross_192
+  - first:
+      213: 4164717382092849413
+    second: Captain Ross_193
+  - first:
+      213: -6030056387402949317
+    second: Captain Ross_194
+  - first:
+      213: -6428653694806197391
+    second: Captain Ross_195
+  - first:
+      213: -2736744782130088122
+    second: Captain Ross_196
+  - first:
+      213: 8027962516490384414
+    second: Captain Ross_197
+  - first:
+      213: -9171767417868676396
+    second: Captain Ross_198
+  - first:
+      213: -5036608849371697195
+    second: Captain Ross_199
+  - first:
+      213: 4453382838004744895
+    second: Captain Ross_200
+  - first:
+      213: 3184076204968744139
+    second: Captain Ross_201
+  - first:
+      213: 5581900000421598617
+    second: Captain Ross_202
+  - first:
+      213: -9092820035047094519
+    second: Captain Ross_203
+  - first:
+      213: 6440491860270107870
+    second: Captain Ross_204
+  - first:
+      213: -5747992247735750476
+    second: Captain Ross_205
+  - first:
+      213: -7542482175434657802
+    second: Captain Ross_206
+  - first:
+      213: -3279419410239230665
+    second: Captain Ross_207
+  - first:
+      213: 4029643074520129016
+    second: Captain Ross_208
+  - first:
+      213: -2059141188432962278
+    second: Captain Ross_209
+  - first:
+      213: 267336902327604461
+    second: Captain Ross_210
+  - first:
+      213: -9212857967244787280
+    second: Captain Ross_211
+  - first:
+      213: 3845838397713196142
+    second: Captain Ross_212
+  - first:
+      213: 3946062237898596732
+    second: Captain Ross_213
+  - first:
+      213: -1600549388118044990
+    second: Captain Ross_214
+  - first:
+      213: -4810653052003810007
+    second: Captain Ross_215
+  - first:
+      213: -1373012402266042526
+    second: Captain Ross_216
+  - first:
+      213: 5839024663654909667
+    second: Captain Ross_217
+  - first:
+      213: 3417159483551377928
+    second: Captain Ross_218
+  - first:
+      213: 631182186886073702
+    second: Captain Ross_219
+  - first:
+      213: -6175865903975484728
+    second: Captain Ross_220
+  - first:
+      213: -2487811145123263990
+    second: Captain Ross_221
+  - first:
+      213: -8033223805802101824
+    second: Captain Ross_222
+  - first:
+      213: -773200817029348506
+    second: Captain Ross_223
+  - first:
+      213: -7347883550034288863
+    second: Captain Ross_224
+  - first:
+      213: -312934649842476525
+    second: Captain Ross_225
+  - first:
+      213: 7079627769624198038
+    second: Captain Ross_226
+  - first:
+      213: 7903800860931471666
+    second: Captain Ross_227
+  - first:
+      213: 4330997180773464544
+    second: Captain Ross_228
+  - first:
+      213: -201474374047100854
+    second: Captain Ross_229
+  - first:
+      213: 3123801578290596993
+    second: Captain Ross_230
+  - first:
+      213: 3945958116524526714
+    second: Captain Ross_231
+  - first:
+      213: 6999801006187235712
+    second: Captain Ross_232
+  - first:
+      213: 6629514412238346069
+    second: Captain Ross_233
+  - first:
+      213: -3962997761245807272
+    second: Captain Ross_234
+  - first:
+      213: -2594519650411823520
+    second: Captain Ross_235
+  - first:
+      213: 3115807743715226595
+    second: Captain Ross_236
+  - first:
+      213: -3566013785618175427
+    second: Captain Ross_237
+  - first:
+      213: 3664950877740535314
+    second: Captain Ross_238
+  - first:
+      213: 4863633940810742440
+    second: Captain Ross_239
+  - first:
+      213: 5080085829684938138
+    second: Captain Ross_240
+  - first:
+      213: 516159920534186059
+    second: Captain Ross_241
+  - first:
+      213: -4918869919180195858
+    second: Captain Ross_242
+  - first:
+      213: -7346585954316294074
+    second: Captain Ross_243
+  - first:
+      213: 955351783770150506
+    second: Captain Ross_244
+  - first:
+      213: 4465865382890047777
+    second: Captain Ross_245
+  - first:
+      213: -3904864228054042621
+    second: Captain Ross_246
+  - first:
+      213: 6313047122578455658
+    second: Captain Ross_247
+  - first:
+      213: 7543141172057927972
+    second: Captain Ross_248
+  - first:
+      213: -8391843930391942975
+    second: Captain Ross_249
+  - first:
+      213: -3216492102451188720
+    second: Captain Ross_250
+  - first:
+      213: -8522570773791296003
+    second: Captain Ross_251
+  - first:
+      213: 183665556789448000
+    second: Captain Ross_252
+  - first:
+      213: -6784264647905089533
+    second: Captain Ross_253
+  - first:
+      213: -5441404689158323204
+    second: Captain Ross_254
+  - first:
+      213: -7808357426198270304
+    second: Captain Ross_255
+  - first:
+      213: -3702068131758772427
+    second: Captain Ross_256
+  - first:
+      213: -5104528190336098368
+    second: Captain Ross_257
+  - first:
+      213: -3916555399696370421
+    second: Captain Ross_258
+  - first:
+      213: -1138431241813146791
+    second: Captain Ross_259
+  - first:
+      213: -1482246245023088067
+    second: Captain Ross_260
+  - first:
+      213: 9148876436962179080
+    second: Captain Ross_261
+  - first:
+      213: 7790801132221685735
+    second: Captain Ross_262
+  - first:
+      213: 4468808350137381794
+    second: Captain Ross_263
+  - first:
+      213: 7644175283994300927
+    second: Captain Ross_264
+  - first:
+      213: 1244375677253773235
+    second: Captain Ross_265
+  - first:
+      213: -6439658200345570284
+    second: Captain Ross_266
+  - first:
+      213: -9151731832698166692
+    second: Captain Ross_267
+  - first:
+      213: -4949738057588660306
+    second: Captain Ross_268
+  - first:
+      213: -1694131806780702749
+    second: Captain Ross_269
+  - first:
+      213: -4715644885351104527
+    second: Captain Ross_270
+  - first:
+      213: -7631306807285999443
+    second: Captain Ross_271
+  - first:
+      213: 8773718776462316311
+    second: Captain Ross_272
+  - first:
+      213: 2942063432657519943
+    second: Captain Ross_273
+  - first:
+      213: -4022475928049525919
+    second: Captain Ross_274
+  - first:
+      213: -7872186350074994830
+    second: Captain Ross_275
+  - first:
+      213: -2009031605494873394
+    second: Captain Ross_276
+  - first:
+      213: 3411625953840907607
+    second: Captain Ross_277
+  - first:
+      213: -5977192160578360095
+    second: Captain Ross_278
+  - first:
+      213: -4087474981682697491
+    second: Captain Ross_279
+  - first:
+      213: 5409324587459337166
+    second: Captain Ross_280
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Captain Ross_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a47049f3ef6581d0800000000000000
+      internalID: -3349147722950085467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1248
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df37589cb0031c0800000000000000
+      internalID: -4526104665352045277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1248
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610cc2e96175580e0800000000000000
+      internalID: -2268311082656546794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a72847f03be5c290800000000000000
+      internalID: -7870626178220415064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1185dee417e402f90800000000000000
+      internalID: -6980493173861820399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1184
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61255efae7292390800000000000000
+      internalID: -7842693385846185617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1184
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5f9267a4fbcaa40800000000000000
+      internalID: 5380885981331846596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1184
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb591d60751e6ea0800000000000000
+      internalID: -5877736891061019668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ea3bb90c7b68e0800000000000000
+      internalID: -1699128053164482216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae256a5df4a9fc80800000000000000
+      internalID: -8288412231148425558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1120
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87903022debf140800000000000000
+      internalID: 4754654561955313889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1120
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5497e20300fa410800000000000000
+      internalID: 1490410208621053413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1120
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66758dfe99704be0800000000000000
+      internalID: -1495061352521828755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124bb883e1d0d1e30800000000000000
+      internalID: 4475748028125000737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1120
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5157dd22ae0eada00800000000000000
+      internalID: 782184781514110229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1056
+        width: 192
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf9426c28db92990800000000000000
+      internalID: -7410183342493753421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_16
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1122
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7216d2ff94fe3ea50800000000000000
+      internalID: 6549341384219648295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1120
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba86c2e38a7f47f0800000000000000
+      internalID: -626147116317242691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1122
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5644ffdd4ef0b470800000000000000
+      internalID: 8408500114723980895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1120
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499388ba4a1f3aea0800000000000000
+      internalID: -5862576600351491692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1122
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fb1629394aecc80800000000000000
+      internalID: -8300516109474218227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1080
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c87b2a050043b760800000000000000
+      internalID: 7472386597127420101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1080
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493c39367004cb420800000000000000
+      internalID: 2647061081466586004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1082
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e7b2982f7b55580800000000000000
+      internalID: -8838956441333432791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1082
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca940cdffc2ced530800000000000000
+      internalID: 3881754127411202476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1080
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd25adee4bd4bcf0800000000000000
+      internalID: -237323748302836235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1080
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b34e15098108b0800000000000000
+      internalID: -5187714640678505655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1090
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6bc8accea41e7b0800000000000000
+      internalID: -5196790114137884982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c04c3ea439be550800000000000000
+      internalID: 6191204062609017873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1082
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900115eeefdfcf290800000000000000
+      internalID: -7855124378679177207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1090
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaca56651d275f70800000000000000
+      internalID: 9175852335725464224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1064
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4d18664f639be40800000000000000
+      internalID: 5672625628969555117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1056
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103c88756b0bcd2f0800000000000000
+      internalID: -946687524455529727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1074
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09753f9e868bfc830800000000000000
+      internalID: 4093693347044218768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 994
+        width: 384
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fbebf2b27e55f10800000000000000
+      internalID: 2257964960866811691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 384
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4afee093e70ac900800000000000000
+      internalID: 705384965607455307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdcb9fa1bd5f8f50800000000000000
+      internalID: 6885825373009595839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc35d26e9b4a0ff00800000000000000
+      internalID: 1148599023317111755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3ab6692d802f080800000000000000
+      internalID: -9155245391931005959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e64078d54b435b80800000000000000
+      internalID: -8407293316014520604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d2d39d3b81b3760800000000000000
+      internalID: 7438566370255383857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 864
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fa7f565fdd80330800000000000000
+      internalID: 3677433141795467107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 864
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ebea155fdee8ec0800000000000000
+      internalID: -3562648617310306713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732689d7263cdcc30800000000000000
+      internalID: 4381372840282710583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84071de4a37790f80800000000000000
+      internalID: -8139843759181303736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_45
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e727e6570047c0800000000000000
+      internalID: -4089260391825678241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c08fd6b307fd00800000000000000
+      internalID: 1006277125709285175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 864
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c014e694f6886d1e0800000000000000
+      internalID: -2173399758604975860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_48
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 864
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9031793100100ccc0800000000000000
+      internalID: -3692950594603511031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 800
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476426b09609bac60800000000000000
+      internalID: 7830511157950695028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 800
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2a405bc2079190800000000000000
+      internalID: -7955887144478036635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 800
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55a1c95341102fa0800000000000000
+      internalID: -5827638936851077797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 800
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8d03e95a9eeafc0800000000000000
+      internalID: -3481588564377937724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 800
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac2e67131e634a0800000000000000
+      internalID: -6613851400182773029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 800
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a4fe9ea145efdc0800000000000000
+      internalID: -3603350177279161841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 800
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d291bfcdd22d2b30800000000000000
+      internalID: 4264102758257365717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 800
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f8d87c6a521f00800000000000000
+      internalID: 1086029882080162563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 800
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9dbf2c181d027f0800000000000000
+      internalID: -639280791834338860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 800
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc79c96f04e0e7e0800000000000000
+      internalID: -1738138701314556751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 800
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c8d900cb726f830800000000000000
+      internalID: 4104511798812445804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_60
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 800
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088e4e0dcd2dee560800000000000000
+      internalID: 7345039888127158400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 800
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dfc3c07948af010800000000000000
+      internalID: 1223436033064762703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_62
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224670f6abc742b80800000000000000
+      internalID: -8420468263107468254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_63
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd36bb67004cc03b0800000000000000
+      internalID: -5544841534928886821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_64
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2b542ba61ee5660800000000000000
+      internalID: 7376581088053146361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c007581f98f542de0800000000000000
+      internalID: -1358856141491834868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_66
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40044fad983f5cf40800000000000000
+      internalID: 5748268272817815556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_67
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8d144f6d1c9cef0800000000000000
+      internalID: -87325588791895904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_68
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c9ee0b786d15d50800000000000000
+      internalID: 6724391596918217791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_69
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b70d4417ac475a50800000000000000
+      internalID: 6509756066871183283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_70
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 806
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43983a4b12811020800000000000000
+      internalID: 2310771137538724687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_71
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 808
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259d2a23fafed2650800000000000000
+      internalID: 6209882996961630546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_72
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 806
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0149f772ef72095e0800000000000000
+      internalID: -1904978669839870960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_73
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 806
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3688d4947b7d547e0800000000000000
+      internalID: -1781780895346358173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4935cab70e995590800000000000000
+      internalID: -7684937533095593650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c332624fc1179ff0800000000000000
+      internalID: -29535290684984378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 736
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca4c8427ed530b80800000000000000
+      internalID: -8429790830175434048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_77
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 738
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4071aa2b3d7fff1f0800000000000000
+      internalID: -1008815302900050172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_78
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 736
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cad22d1f7d1de60800000000000000
+      internalID: 7985401047917898815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_79
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 738
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c46aa831e5a5450800000000000000
+      internalID: 6078274085113449560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_80
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 738
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aaad010e65cb130800000000000000
+      internalID: 3583834923835501201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_81
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 736
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430ce2de4000861a0800000000000000
+      internalID: -6816198014866112460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_82
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 738
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78fd3d725b036ac0800000000000000
+      internalID: -3863231606437316481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_83
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e802ad62a5457270800000000000000
+      internalID: 8247574856525285601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_84
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e7ead3081a5f480800000000000000
+      internalID: -8866002719246221695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_85
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb02d3dcd546080800000000000000
+      internalID: -9195121403108475978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_86
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 744
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f48d0315410b40800000000000000
+      internalID: 5404676975954817710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_87
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 744
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99316fc88476ad10800000000000000
+      internalID: 2136523204177508762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_88
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 744
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5ff4f6ee7517b0800000000000000
+      internalID: -5254153859839861570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_89
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ff5732582579e10800000000000000
+      internalID: 2204321274400210800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_90
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dfa98819deb48b0800000000000000
+      internalID: -5166774938159612545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_91
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719bcc049c9e1fa50800000000000000
+      internalID: 6553275983385639191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_92
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 736
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de1b3244f31d5a80800000000000000
+      internalID: -8476596983837286698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_93
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 736
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13abd6f701edbf770800000000000000
+      internalID: 8645748072106539569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_94
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 736
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b147f8d707d610800000000000000
+      internalID: 1645792817269814177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 384
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6143eea4ad5cb7430800000000000000
+      internalID: 3781833853458330646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317df5f33d59d9a0800000000000000
+      internalID: -6207828133601775302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_97
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491b6fb0bf4021c0800000000000000
+      internalID: -4530533604590413493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_98
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98c8074368db5a80800000000000000
+      internalID: -8476943952689706849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_99
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 672
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ee8325fc73e26d0800000000000000
+      internalID: -3013409737087062445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_100
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 672
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd6b62d433eaf850800000000000000
+      internalID: 6411686835523382728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_101
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f938f9ffb2ab8e0800000000000000
+      internalID: -1676979534349230276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_102
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c14731944acbd00800000000000000
+      internalID: 989846651880610912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_103
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6484a503e6cd39f20800000000000000
+      internalID: 3428326107174815814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_104
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b317682177d46cc0800000000000000
+      internalID: -3718610511292066895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_105
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2757243484600aa70800000000000000
+      internalID: 8836069376336754034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_106
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 672
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb7cd7b09f0dcf20800000000000000
+      internalID: 3444426404242684856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_107
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 672
+        width: 384
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a02816c7cb6710800000000000000
+      internalID: 1687662139002627189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_108
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 672
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3ceaa5d3e672a40800000000000000
+      internalID: 5343360692691846055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_109
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b3f9cf842c346f0800000000000000
+      internalID: -701503498207937681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_110
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 672
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c55e113b0a2c9e30800000000000000
+      internalID: 4511527154275472840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_111
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 672
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3449b21ddb7922650800000000000000
+      internalID: 6206690077983872067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_112
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e616f6d82f2d20800000000000000
+      internalID: 3255865959328966942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_113
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f8ed8c6a517d300800000000000000
+      internalID: 276713708185358131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_114
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febd6c3bfe0cf7540800000000000000
+      internalID: 5007933446405151727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_115
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b5a93b37aeaf10800000000000000
+      internalID: 2282945933935489735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_116
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 672
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67716d540fa9f7c00800000000000000
+      internalID: 900608807251875702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_117
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 672
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65da5506522f9890800000000000000
+      internalID: -7449197505795140241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_118
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 672
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e769d7ab8c56ed0800000000000000
+      internalID: -2421308521345286551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 320
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939ed4c0cad575fd0800000000000000
+      internalID: -2353309286755604167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eaaf32253a74da0800000000000000
+      internalID: -5960616008615285217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 608
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a764db928460b5a20800000000000000
+      internalID: 3052040079481325178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_122
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 608
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6f443e686ccace0800000000000000
+      internalID: -1392519902123460957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_123
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d7a945d2ca4f60800000000000000
+      internalID: 8019436307806146747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_124
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 608
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4df2f15c6451040800000000000000
+      internalID: 4617674805384041727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_125
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c6be4642decf1f0800000000000000
+      internalID: -1009671475870077904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_126
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52c1a40466de3e0800000000000000
+      internalID: -2022848231312185859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_127
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc7b551756c124c0800000000000000
+      internalID: -4313948890721452834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_128
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff7b468a5a8bcb0800000000000000
+      internalID: -4847942856201470023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_129
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 608
+        width: 320
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0ffdf2a2a5cc000800000000000000
+      internalID: 57520032487305378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_130
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 608
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fd0f18780def480800000000000000
+      internalID: -8863417736199348423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_131
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 608
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64b3b3e723cca4e0800000000000000
+      internalID: -1968984360976403346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_132
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 608
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b4c6a1cee3afb70800000000000000
+      internalID: 8933521994619308825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_133
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 608
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2896efb235675d4b0800000000000000
+      internalID: -5416292877250696830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_134
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abccb602bda045030800000000000000
+      internalID: 3482420348122287290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_135
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc56cf0b12a8f5f0800000000000000
+      internalID: -722649503080489793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_136
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07751c453ec7e47b0800000000000000
+      internalID: -5238112000763930768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_137
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1119405a49b440b40800000000000000
+      internalID: 5405528554547220753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_138
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d31509e644e83520800000000000000
+      internalID: 2682144571307398104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_139
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 608
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f66a165eaa60bf00800000000000000
+      internalID: 1130520803471419124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_140
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 612
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04db627325d6c530800000000000000
+      internalID: 3875018877619131406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_141
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 612
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4403ae56059e0b50800000000000000
+      internalID: 6561345561715475533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 448
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3312464819ea1cee0800000000000000
+      internalID: -1242520082162900685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88583bd8d6e6bad80800000000000000
+      internalID: -8238369676536347256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_144
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68295c13930c69ba0800000000000000
+      internalID: -6082462894836575610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_145
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d7f3a958e704600800000000000000
+      internalID: 450499075020651898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_146
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8e005eaf408db0800000000000000
+      internalID: -4791742393436173127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_147
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 544
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f80a4b0df1dc7b0800000000000000
+      internalID: -5202467013298974931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_148
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d6eb36b26d9fe0800000000000000
+      internalID: -1180678992472647586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_149
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313c56c8bd1fce1f0800000000000000
+      internalID: -1014169890809593069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_150
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed9874bdd76c7b0800000000000000
+      internalID: -5204333938628501840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_151
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 544
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2fd9eb6292e5160800000000000000
+      internalID: 7016090515873329897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_152
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad123af738d8bd000800000000000000
+      internalID: 61798615821263322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_153
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65075cfeb39e0cd40800000000000000
+      internalID: 5602734380083933270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_154
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2047df08edc2910800000000000000
+      internalID: 1814069395512885955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_155
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 544
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b91934b3aabd50800000000000000
+      internalID: 6753890585642905717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_156
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 544
+        width: 448
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be4234f4388ef80800000000000000
+      internalID: -8077061555236836600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_157
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 544
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d18e14209da3ee0800000000000000
+      internalID: -1280472540314591975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_158
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9038d572d91e2b0800000000000000
+      internalID: -5556987672800327175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_159
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb4fbc7cd2b58960800000000000000
+      internalID: 7603680205940411384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_160
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9203c940ac8914a0800000000000000
+      internalID: -6622107157011430756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_161
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 544
+        width: 160
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c9b18bda1958a0800000000000000
+      internalID: -6315987472333814088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_162
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333b42782fd5d0160800000000000000
+      internalID: 6993349092607046451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_163
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e81cf7a8b8395e0800000000000000
+      internalID: -1904024790482448794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_164
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 544
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a111c890466d7210800000000000000
+      internalID: 1332333492398264736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_165
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 544
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622dfd957c98679c0800000000000000
+      internalID: -3929802135534841306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 448
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09a8438206067b0800000000000000
+      internalID: -5233077041208061707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1acfa064f98e1fe0800000000000000
+      internalID: -1216383166656296422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_168
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 480
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f33616e4c5c12770800000000000000
+      internalID: 8584359814209352691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_169
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88ce2ca6eb70f0a0800000000000000
+      internalID: -6849838802569082740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_170
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 480
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc16e5ebb69de580800000000000000
+      internalID: -8796208763424596752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_171
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 480
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f54da9ec053c3210800000000000000
+      internalID: 1313983520861668848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_172
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 480
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3afec4ce42d6940800000000000000
+      internalID: 5290925734551856068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_173
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 480
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08e5dcb84bab7650800000000000000
+      internalID: 6231762838291343370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_174
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 480
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69f215e89e492e20800000000000000
+      internalID: 3326276218375043436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_175
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8550ec9b5a0e05f80800000000000000
+      internalID: -8119743125757491880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_176
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87002426d80848b0800000000000000
+      internalID: -5167870856585541745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_177
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 480
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0535d0d5df0c1c0800000000000000
+      internalID: -4485306652763664216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_178
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 480
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810ff2633e29756b0800000000000000
+      internalID: -5307612131268497384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_179
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 480
+        width: 448
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e2b7ba61c9227f0800000000000000
+      internalID: -638776575952998842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_180
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 480
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed9c1f050e70e10800000000000000
+      internalID: 2163944784233356930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_181
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 480
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75a9f59f1fbadac0800000000000000
+      internalID: -3829538390744128130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_182
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a64aff6477da070800000000000000
+      internalID: 8119276850039253515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_183
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 480
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6bf5c9f898c2b0800000000000000
+      internalID: -5564029141080380553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_184
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 480
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d97a1810dcb3c380800000000000000
+      internalID: -8952104032338806313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_185
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304e3836fa995d570800000000000000
+      internalID: 8490861651044852739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_186
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5558f71b03c98e0800000000000000
+      internalID: -1685418621636618837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_187
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 480
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39834e234b205af0800000000000000
+      internalID: -409779998551733956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_188
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 480
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d86484ffca024ee0800000000000000
+      internalID: -1278447455942973231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 192
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a3ca94def9b59b0800000000000000
+      internalID: -5090299112320124300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 158
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6100e20ebbf74c090800000000000000
+      internalID: -8015140991915917290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_191
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bbefa73b9b4a8c0800000000000000
+      internalID: -3988859189429617795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_192
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 192
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de95aaff9f70caed0800000000000000
+      internalID: -2401535730977711635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_193
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5010a85b46c0cc930800000000000000
+      internalID: 4164717382092849413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_194
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 416
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d954d0aafe05ca0800000000000000
+      internalID: -6030056387402949317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_195
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 416
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bf2196685d8c6a0800000000000000
+      internalID: -6428653694806197391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 192
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6477b3cde11250ad0800000000000000
+      internalID: -2736744782130088122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_197
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 94
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e147f81ff5d096f60800000000000000
+      internalID: 8027962516490384414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_198
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 352
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d29f67a02657b080800000000000000
+      internalID: -9171767417868676396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_199
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df6c94cfee5a1ab0800000000000000
+      internalID: -5036608849371697195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_200
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2081c98189dcd30800000000000000
+      internalID: 4453382838004744895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_201
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc49fee307c103c20800000000000000
+      internalID: 3184076204968744139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_202
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 94
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d1e8e974e67d40800000000000000
+      internalID: 5581900000421598617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_203
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 352
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907867c9a50dfc180800000000000000
+      internalID: -9092820035047094519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_204
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 352
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc1364939316950800000000000000
+      internalID: 6440491860270107870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_205
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 352
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f20e31870b30b0800000000000000
+      internalID: -5747992247735750476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 192
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff60885c68b35790800000000000000
+      internalID: -7542482175434657802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_207
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d6b27eb692d72d0800000000000000
+      internalID: -3279419410239230665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_208
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd926cb60b2ce730800000000000000
+      internalID: 4029643074520129016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_209
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dd319bff57c63e0800000000000000
+      internalID: -2059141188432962278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_210
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4179a0f75c5b300800000000000000
+      internalID: 267336902327604461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_211
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 192
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b14f389d7a552080800000000000000
+      internalID: -9212857967244787280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_212
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a04785a92f5530800000000000000
+      internalID: 3845838397713196142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_213
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 288
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71678fb2ba33c630800000000000000
+      internalID: 3946062237898596732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_214
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 288
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce41c3cfc4b9c9e0800000000000000
+      internalID: -1600549388118044990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_215
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 300
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9250aa189802d3db0800000000000000
+      internalID: -4810653052003810007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_216
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 302
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f0ab2ae7412fce0800000000000000
+      internalID: -1373012402266042526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_217
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 300
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e645efbef1680150800000000000000
+      internalID: 5839024663654909667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_218
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 296
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aefe502703c6f20800000000000000
+      internalID: 3417159483551377928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_219
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 304
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d06e5dad862c800800000000000000
+      internalID: 631182186886073702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_220
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 300
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c238157eaaea4aa0800000000000000
+      internalID: -6175865903975484728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_221
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 298
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a8baac1f4897dd0800000000000000
+      internalID: -2487811145123263990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_222
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 300
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c344fda281448090800000000000000
+      internalID: -8033223805802101824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_223
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 302
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6638ce814f90545f0800000000000000
+      internalID: -773200817029348506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_224
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 300
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f154d87d2170a90800000000000000
+      internalID: -7347883550034288863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_225
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 300
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5a3e089b38abf0800000000000000
+      internalID: -312934649842476525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_226
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf07e62f3ef3260800000000000000
+      internalID: 7079627769624198038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_227
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2393f33c101ffad60800000000000000
+      internalID: 7903800860931471666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_228
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e978334dfaca1c30800000000000000
+      internalID: 4330997180773464544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_229
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40149fcf18343df0800000000000000
+      internalID: -201474374047100854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_230
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 298
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc0de1cf8f95b20800000000000000
+      internalID: 3123801578290596993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_231
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 296
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c830a100cd2c630800000000000000
+      internalID: 3945958116524526714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_232
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0894638bde9442160800000000000000
+      internalID: 6999801006187235712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_233
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5579cc6bb34c00c50800000000000000
+      internalID: 6629514412238346069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_234
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d7643788a9009c0800000000000000
+      internalID: -3962997761245807272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_235
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ebe62df1a6efbd0800000000000000
+      internalID: -2594519650411823520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_236
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 288
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3be8872a29d3b20800000000000000
+      internalID: 3115807743715226595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_237
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a25140b59f28ec0800000000000000
+      internalID: -3566013785618175427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_238
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 294
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e0bf2d7658cd230800000000000000
+      internalID: 3664950877740535314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_239
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 292
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aabe8fec491f7340800000000000000
+      internalID: 4863633940810742440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_240
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95cdda8527108640800000000000000
+      internalID: 5080085829684938138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_241
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48ebb686b4c92700800000000000000
+      internalID: 516159920534186059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7f8eaaed9acbbb0800000000000000
+      internalID: -4918869919180195858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_243
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6486a199ffeab0a90800000000000000
+      internalID: -7346585954316294074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_244
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 224
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d72bb267124d00800000000000000
+      internalID: 955351783770150506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_245
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 224
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12900e197e0f9fd30800000000000000
+      internalID: 4465865382890047777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_246
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30875b66ca22fc9c0800000000000000
+      internalID: -3904864228054042621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_247
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3797f8e27c9750800000000000000
+      internalID: 6313047122578455658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421f2234eee9ea860800000000000000
+      internalID: 7543141172057927972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_249
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 224
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8687e386e2a8b80800000000000000
+      internalID: -8391843930391942975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_250
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 224
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c2c8a7979bc53d0800000000000000
+      internalID: -3216492102451188720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_251
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df53b07290fb9b980800000000000000
+      internalID: -8522570773791296003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc8edc9d28c8200800000000000000
+      internalID: 183665556789448000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_253
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 160
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308606f4f3379d1a0800000000000000
+      internalID: -6784264647905089533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_254
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 160
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3c297d34f3c74b0800000000000000
+      internalID: -5441404689158323204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_255
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 160
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae2b249a4423a390800000000000000
+      internalID: -7808357426198270304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_256
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 160
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f693806ac9f9cc0800000000000000
+      internalID: -3702068131758772427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_257
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 160
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf9c05e7a21929b0800000000000000
+      internalID: -5104528190336098368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_258
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 160
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b5f16d9995a9c0800000000000000
+      internalID: -3916555399696370421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_259
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953458631da7330f0800000000000000
+      internalID: -1138431241813146791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_260
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 160
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d320eb7b4e00e6be0800000000000000
+      internalID: -1482246245023088067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_261
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 160
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808721785a657fe70800000000000000
+      internalID: 9148876436962179080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_262
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 160
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd8c13a5c7e1c60800000000000000
+      internalID: 7790801132221685735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_263
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 160
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3fc378485640e30800000000000000
+      internalID: 4468808350137381794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_264
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 160
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff11d439be0951a60800000000000000
+      internalID: 7644175283994300927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_265
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 160
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e8d1e519e44110800000000000000
+      internalID: 1244375677253773235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414987d4cfcb1a6a0800000000000000
+      internalID: -6439658200345570284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_267
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c522468d2648ef080800000000000000
+      internalID: -9151731832698166692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_268
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea72232267ffe4bb0800000000000000
+      internalID: -4949738057588660306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_269
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 96
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef352ef81c3d78e0800000000000000
+      internalID: -1694131806780702749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_270
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff72c916f9ae8eb0800000000000000
+      internalID: -4715644885351104527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_271
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 96
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da892b324e6281690800000000000000
+      internalID: -7631306807285999443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_272
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 96
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131636fdb282c970800000000000000
+      internalID: 8773718776462316311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_273
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 96
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c732ba1f44d820800000000000000
+      internalID: 2942063432657519943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_274
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5c07947b4d28c0800000000000000
+      internalID: -4022475928049525919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_275
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd916293060c290800000000000000
+      internalID: -7872186350074994830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_276
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec202fb266c7e14e0800000000000000
+      internalID: -2009031605494873394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_277
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755c03dbab7885f20800000000000000
+      internalID: 3411625953840907607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_278
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec2a72066fbc0da0800000000000000
+      internalID: -5977192160578360095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_279
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaa188192f5647c0800000000000000
+      internalID: -4087474981682697491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captain Ross_280
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 46
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbdc4e6d08c11b40800000000000000
+      internalID: 5409324587459337166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

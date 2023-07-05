@@ -1,0 +1,7453 @@
+fileFormatVersion: 2
+guid: aec3cc0b0a6ca4b50985f5416dd9f976
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1448371378000518138
+    second: Hotel Manager_0
+  - first:
+      213: -1243612623565708257
+    second: Hotel Manager_1
+  - first:
+      213: 7694900236768985457
+    second: Hotel Manager_2
+  - first:
+      213: -721294422956179471
+    second: Hotel Manager_3
+  - first:
+      213: 4676311923902543436
+    second: Hotel Manager_4
+  - first:
+      213: -5033144274067439392
+    second: Hotel Manager_5
+  - first:
+      213: -8455383909396202510
+    second: Hotel Manager_6
+  - first:
+      213: 9101202887809511417
+    second: Hotel Manager_7
+  - first:
+      213: 8902434411398958451
+    second: Hotel Manager_8
+  - first:
+      213: -2317048602489736557
+    second: Hotel Manager_9
+  - first:
+      213: -4762385258161984484
+    second: Hotel Manager_10
+  - first:
+      213: 4788039953202749010
+    second: Hotel Manager_11
+  - first:
+      213: 4503989111717771830
+    second: Hotel Manager_12
+  - first:
+      213: 1196508552064976503
+    second: Hotel Manager_13
+  - first:
+      213: -979359573108137096
+    second: Hotel Manager_14
+  - first:
+      213: 626510657608346987
+    second: Hotel Manager_15
+  - first:
+      213: 3838831994153343359
+    second: Hotel Manager_16
+  - first:
+      213: -1888532567639588038
+    second: Hotel Manager_17
+  - first:
+      213: -5244753916558555153
+    second: Hotel Manager_18
+  - first:
+      213: 8402305029740370411
+    second: Hotel Manager_19
+  - first:
+      213: 3824825834488701527
+    second: Hotel Manager_20
+  - first:
+      213: -5926103211733003910
+    second: Hotel Manager_21
+  - first:
+      213: 5378023478425577970
+    second: Hotel Manager_22
+  - first:
+      213: 8247614459281208436
+    second: Hotel Manager_23
+  - first:
+      213: 1877891974708835774
+    second: Hotel Manager_24
+  - first:
+      213: 6142726503592317980
+    second: Hotel Manager_25
+  - first:
+      213: -7218558408322881715
+    second: Hotel Manager_26
+  - first:
+      213: 2397946236531656641
+    second: Hotel Manager_27
+  - first:
+      213: -6123651160802735859
+    second: Hotel Manager_28
+  - first:
+      213: -5814246593721312339
+    second: Hotel Manager_29
+  - first:
+      213: 4207421991704933406
+    second: Hotel Manager_30
+  - first:
+      213: 7836232608311152
+    second: Hotel Manager_31
+  - first:
+      213: 1470210855553104296
+    second: Hotel Manager_32
+  - first:
+      213: -9155712726192139319
+    second: Hotel Manager_33
+  - first:
+      213: 4946651631888113423
+    second: Hotel Manager_34
+  - first:
+      213: -8607752508483179252
+    second: Hotel Manager_35
+  - first:
+      213: -5095327660915395309
+    second: Hotel Manager_36
+  - first:
+      213: 3127374165369890466
+    second: Hotel Manager_37
+  - first:
+      213: -6607745257788929606
+    second: Hotel Manager_38
+  - first:
+      213: 7350655969191000555
+    second: Hotel Manager_39
+  - first:
+      213: 9085395093127079760
+    second: Hotel Manager_40
+  - first:
+      213: -6062385292780403474
+    second: Hotel Manager_41
+  - first:
+      213: 4897250037220209124
+    second: Hotel Manager_42
+  - first:
+      213: -4359512404534747772
+    second: Hotel Manager_43
+  - first:
+      213: -1367201754978989579
+    second: Hotel Manager_44
+  - first:
+      213: 6256428667857181463
+    second: Hotel Manager_45
+  - first:
+      213: -6272821650402208940
+    second: Hotel Manager_46
+  - first:
+      213: 3954168002394075222
+    second: Hotel Manager_47
+  - first:
+      213: 4741277439202526861
+    second: Hotel Manager_48
+  - first:
+      213: -5469053444735121399
+    second: Hotel Manager_49
+  - first:
+      213: 512563674135984449
+    second: Hotel Manager_50
+  - first:
+      213: -903097780829448050
+    second: Hotel Manager_51
+  - first:
+      213: 7278485522856588858
+    second: Hotel Manager_52
+  - first:
+      213: -7867597488549203984
+    second: Hotel Manager_53
+  - first:
+      213: 5049024797836807844
+    second: Hotel Manager_54
+  - first:
+      213: 2757991022014575212
+    second: Hotel Manager_55
+  - first:
+      213: 6012834650144775152
+    second: Hotel Manager_56
+  - first:
+      213: -3204906579770790067
+    second: Hotel Manager_57
+  - first:
+      213: 6158193100247262459
+    second: Hotel Manager_58
+  - first:
+      213: 1621785762675659755
+    second: Hotel Manager_59
+  - first:
+      213: -1361549665378886618
+    second: Hotel Manager_60
+  - first:
+      213: 7123191618693190341
+    second: Hotel Manager_61
+  - first:
+      213: 1364349277909702717
+    second: Hotel Manager_62
+  - first:
+      213: 2892949832506941707
+    second: Hotel Manager_63
+  - first:
+      213: -1082741399020728387
+    second: Hotel Manager_64
+  - first:
+      213: 4668750620815401507
+    second: Hotel Manager_65
+  - first:
+      213: 1923579407258133558
+    second: Hotel Manager_66
+  - first:
+      213: 88891363121209917
+    second: Hotel Manager_67
+  - first:
+      213: 3478059422953455372
+    second: Hotel Manager_68
+  - first:
+      213: 5192123575198320805
+    second: Hotel Manager_69
+  - first:
+      213: 3070042260043142295
+    second: Hotel Manager_70
+  - first:
+      213: -3398577305061692850
+    second: Hotel Manager_71
+  - first:
+      213: 7994862261132064463
+    second: Hotel Manager_72
+  - first:
+      213: -5128731023532847714
+    second: Hotel Manager_73
+  - first:
+      213: 2769935455050734107
+    second: Hotel Manager_74
+  - first:
+      213: 4036697318031085498
+    second: Hotel Manager_75
+  - first:
+      213: -1314005371626438116
+    second: Hotel Manager_76
+  - first:
+      213: 5331990033237440547
+    second: Hotel Manager_77
+  - first:
+      213: -2586581686612134832
+    second: Hotel Manager_78
+  - first:
+      213: -4286250389081001150
+    second: Hotel Manager_79
+  - first:
+      213: 480988217010609662
+    second: Hotel Manager_80
+  - first:
+      213: 5855185638966320383
+    second: Hotel Manager_81
+  - first:
+      213: 9051651730790994951
+    second: Hotel Manager_82
+  - first:
+      213: -1860146061113644538
+    second: Hotel Manager_83
+  - first:
+      213: 4293410189065459616
+    second: Hotel Manager_84
+  - first:
+      213: 1344237046899451741
+    second: Hotel Manager_85
+  - first:
+      213: 1058305007211658852
+    second: Hotel Manager_86
+  - first:
+      213: -4566487034869785678
+    second: Hotel Manager_87
+  - first:
+      213: 5475215170168533972
+    second: Hotel Manager_88
+  - first:
+      213: -8044196284638138179
+    second: Hotel Manager_89
+  - first:
+      213: 958035854467961311
+    second: Hotel Manager_90
+  - first:
+      213: -1701503111204047843
+    second: Hotel Manager_91
+  - first:
+      213: -580750420797896174
+    second: Hotel Manager_92
+  - first:
+      213: -8047214836195820423
+    second: Hotel Manager_93
+  - first:
+      213: -8463798377080780167
+    second: Hotel Manager_94
+  - first:
+      213: 937757759967970898
+    second: Hotel Manager_95
+  - first:
+      213: -3409180384308857030
+    second: Hotel Manager_96
+  - first:
+      213: 917898605878579760
+    second: Hotel Manager_97
+  - first:
+      213: -332059996920878181
+    second: Hotel Manager_98
+  - first:
+      213: 6794128107213408646
+    second: Hotel Manager_99
+  - first:
+      213: 5631823400464206684
+    second: Hotel Manager_100
+  - first:
+      213: 2387848016251557787
+    second: Hotel Manager_101
+  - first:
+      213: -8307003447988138885
+    second: Hotel Manager_102
+  - first:
+      213: -507473114754080921
+    second: Hotel Manager_103
+  - first:
+      213: 1464524541429348916
+    second: Hotel Manager_104
+  - first:
+      213: -221933860794552445
+    second: Hotel Manager_105
+  - first:
+      213: 2823538443990569519
+    second: Hotel Manager_106
+  - first:
+      213: 1885124691083306489
+    second: Hotel Manager_107
+  - first:
+      213: 9171940305630353058
+    second: Hotel Manager_108
+  - first:
+      213: -6394232656814046159
+    second: Hotel Manager_109
+  - first:
+      213: -2601715141427484839
+    second: Hotel Manager_110
+  - first:
+      213: 2338936991281756987
+    second: Hotel Manager_111
+  - first:
+      213: 6121820269545585257
+    second: Hotel Manager_112
+  - first:
+      213: 6019427518570240464
+    second: Hotel Manager_113
+  - first:
+      213: 5202238714763121552
+    second: Hotel Manager_114
+  - first:
+      213: 7735875414215382607
+    second: Hotel Manager_115
+  - first:
+      213: -285752886824529670
+    second: Hotel Manager_116
+  - first:
+      213: 7636503010029207403
+    second: Hotel Manager_117
+  - first:
+      213: 7879770869513998551
+    second: Hotel Manager_118
+  - first:
+      213: -2928603780776571589
+    second: Hotel Manager_119
+  - first:
+      213: 6882212770681136340
+    second: Hotel Manager_120
+  - first:
+      213: -8076026291535195796
+    second: Hotel Manager_121
+  - first:
+      213: -1767162974150450673
+    second: Hotel Manager_122
+  - first:
+      213: 5881364115359198032
+    second: Hotel Manager_123
+  - first:
+      213: 931768676030171622
+    second: Hotel Manager_124
+  - first:
+      213: -4541211546350515558
+    second: Hotel Manager_125
+  - first:
+      213: 4650285189165341617
+    second: Hotel Manager_126
+  - first:
+      213: -7150930385549952896
+    second: Hotel Manager_127
+  - first:
+      213: -2249771735019523537
+    second: Hotel Manager_128
+  - first:
+      213: -7800998386590046876
+    second: Hotel Manager_129
+  - first:
+      213: 8069758240474274372
+    second: Hotel Manager_130
+  - first:
+      213: 3381185313913053526
+    second: Hotel Manager_131
+  - first:
+      213: -401492451720109441
+    second: Hotel Manager_132
+  - first:
+      213: -7474764869272619322
+    second: Hotel Manager_133
+  - first:
+      213: 41997066906896489
+    second: Hotel Manager_134
+  - first:
+      213: -816470524443678511
+    second: Hotel Manager_135
+  - first:
+      213: 6809704768548624316
+    second: Hotel Manager_136
+  - first:
+      213: -5429515662847345986
+    second: Hotel Manager_137
+  - first:
+      213: 546958962451543897
+    second: Hotel Manager_138
+  - first:
+      213: -6765832419750125451
+    second: Hotel Manager_139
+  - first:
+      213: 4208498638632595615
+    second: Hotel Manager_140
+  - first:
+      213: -2797123166826507044
+    second: Hotel Manager_141
+  - first:
+      213: 6834477321869506012
+    second: Hotel Manager_142
+  - first:
+      213: -6269992128288491562
+    second: Hotel Manager_143
+  - first:
+      213: 979662451622003440
+    second: Hotel Manager_144
+  - first:
+      213: 7827772745896861315
+    second: Hotel Manager_145
+  - first:
+      213: 6619317403374899954
+    second: Hotel Manager_146
+  - first:
+      213: 1524272647865832646
+    second: Hotel Manager_147
+  - first:
+      213: -9046030742536308101
+    second: Hotel Manager_148
+  - first:
+      213: -4406094167772170559
+    second: Hotel Manager_149
+  - first:
+      213: -4309479464904263442
+    second: Hotel Manager_150
+  - first:
+      213: 6682103375431008965
+    second: Hotel Manager_151
+  - first:
+      213: -9087691844399112211
+    second: Hotel Manager_152
+  - first:
+      213: 4298146655241985424
+    second: Hotel Manager_153
+  - first:
+      213: 1102003185699343974
+    second: Hotel Manager_154
+  - first:
+      213: 2247728351837604942
+    second: Hotel Manager_155
+  - first:
+      213: -1992911907505645282
+    second: Hotel Manager_156
+  - first:
+      213: 3090909313934737622
+    second: Hotel Manager_157
+  - first:
+      213: 7288187247604925994
+    second: Hotel Manager_158
+  - first:
+      213: -6079178910694585200
+    second: Hotel Manager_159
+  - first:
+      213: -7733850371324558852
+    second: Hotel Manager_160
+  - first:
+      213: 8546691067798390491
+    second: Hotel Manager_161
+  - first:
+      213: -2610251829410561483
+    second: Hotel Manager_162
+  - first:
+      213: -8856102367236434845
+    second: Hotel Manager_163
+  - first:
+      213: 6259119636123218244
+    second: Hotel Manager_164
+  - first:
+      213: -7257360177117537199
+    second: Hotel Manager_165
+  - first:
+      213: -4262565564449552536
+    second: Hotel Manager_166
+  - first:
+      213: 720794104192582653
+    second: Hotel Manager_167
+  - first:
+      213: 6580063335351502502
+    second: Hotel Manager_168
+  - first:
+      213: -3272287847823205714
+    second: Hotel Manager_169
+  - first:
+      213: 3070090400722834613
+    second: Hotel Manager_170
+  - first:
+      213: -8042248435480685555
+    second: Hotel Manager_171
+  - first:
+      213: 7855401654735205285
+    second: Hotel Manager_172
+  - first:
+      213: -3101655069297011868
+    second: Hotel Manager_173
+  - first:
+      213: 7198702951947067690
+    second: Hotel Manager_174
+  - first:
+      213: -6280818397855727006
+    second: Hotel Manager_175
+  - first:
+      213: -9102899547002562489
+    second: Hotel Manager_176
+  - first:
+      213: 7485298839514656457
+    second: Hotel Manager_177
+  - first:
+      213: -5329136795084418149
+    second: Hotel Manager_178
+  - first:
+      213: -2105402277990428403
+    second: Hotel Manager_179
+  - first:
+      213: 2294604167152745266
+    second: Hotel Manager_180
+  - first:
+      213: 793845508068108816
+    second: Hotel Manager_181
+  - first:
+      213: -5831676630104072501
+    second: Hotel Manager_182
+  - first:
+      213: 4625005538027332301
+    second: Hotel Manager_183
+  - first:
+      213: 1452667967203064610
+    second: Hotel Manager_184
+  - first:
+      213: -5677602675204424920
+    second: Hotel Manager_185
+  - first:
+      213: 6770348059801961281
+    second: Hotel Manager_186
+  - first:
+      213: -8965211839860552433
+    second: Hotel Manager_187
+  - first:
+      213: 5570923670995953081
+    second: Hotel Manager_188
+  - first:
+      213: 5005335678471134111
+    second: Hotel Manager_189
+  - first:
+      213: -1948511685431045393
+    second: Hotel Manager_190
+  - first:
+      213: -8261098688324983009
+    second: Hotel Manager_191
+  - first:
+      213: -4679379786688882281
+    second: Hotel Manager_192
+  - first:
+      213: 6432063494159039693
+    second: Hotel Manager_193
+  - first:
+      213: 7400863645741205884
+    second: Hotel Manager_194
+  - first:
+      213: -6270255302197483092
+    second: Hotel Manager_195
+  - first:
+      213: -2520942912919675138
+    second: Hotel Manager_196
+  - first:
+      213: 742130364562619179
+    second: Hotel Manager_197
+  - first:
+      213: -7704048767457847666
+    second: Hotel Manager_198
+  - first:
+      213: 5838822559207004460
+    second: Hotel Manager_199
+  - first:
+      213: 6827115482860929529
+    second: Hotel Manager_200
+  - first:
+      213: 165835676598928078
+    second: Hotel Manager_201
+  - first:
+      213: -3410549409248024023
+    second: Hotel Manager_202
+  - first:
+      213: -3490969260077331012
+    second: Hotel Manager_203
+  - first:
+      213: 6950447638608149605
+    second: Hotel Manager_204
+  - first:
+      213: 1326255247790310631
+    second: Hotel Manager_205
+  - first:
+      213: 2421548866676268720
+    second: Hotel Manager_206
+  - first:
+      213: 595097736946030944
+    second: Hotel Manager_207
+  - first:
+      213: 8400288158577471747
+    second: Hotel Manager_208
+  - first:
+      213: 6384403025007783960
+    second: Hotel Manager_209
+  - first:
+      213: -774266560033196818
+    second: Hotel Manager_210
+  - first:
+      213: 6226754333023936752
+    second: Hotel Manager_211
+  - first:
+      213: -485219679676576917
+    second: Hotel Manager_212
+  - first:
+      213: -4894300913994026801
+    second: Hotel Manager_213
+  - first:
+      213: -1606919067286399102
+    second: Hotel Manager_214
+  - first:
+      213: -8878345477034760472
+    second: Hotel Manager_215
+  - first:
+      213: -4537236112353939896
+    second: Hotel Manager_216
+  - first:
+      213: -311475274545844948
+    second: Hotel Manager_217
+  - first:
+      213: 7371500480561999543
+    second: Hotel Manager_218
+  - first:
+      213: 4456249996130004732
+    second: Hotel Manager_219
+  - first:
+      213: -8578616318113297475
+    second: Hotel Manager_220
+  - first:
+      213: -3281534749813569540
+    second: Hotel Manager_221
+  - first:
+      213: -278711756768745826
+    second: Hotel Manager_222
+  - first:
+      213: -141671397579072622
+    second: Hotel Manager_223
+  - first:
+      213: -5912192629921945486
+    second: Hotel Manager_224
+  - first:
+      213: -3093797885589449086
+    second: Hotel Manager_225
+  - first:
+      213: 5226153433965554945
+    second: Hotel Manager_226
+  - first:
+      213: -1175175226060059857
+    second: Hotel Manager_227
+  - first:
+      213: 2375164068982354425
+    second: Hotel Manager_228
+  - first:
+      213: 7875394030933228115
+    second: Hotel Manager_229
+  - first:
+      213: 8133425129735454693
+    second: Hotel Manager_230
+  - first:
+      213: 3574621933400154088
+    second: Hotel Manager_231
+  - first:
+      213: -8182054040966604800
+    second: Hotel Manager_232
+  - first:
+      213: 1104166661375429648
+    second: Hotel Manager_233
+  - first:
+      213: 4722714126102000772
+    second: Hotel Manager_234
+  - first:
+      213: 2363880972501529552
+    second: Hotel Manager_235
+  - first:
+      213: -5845359429650899874
+    second: Hotel Manager_236
+  - first:
+      213: 2178373083929828835
+    second: Hotel Manager_237
+  - first:
+      213: -5642028291075527176
+    second: Hotel Manager_238
+  - first:
+      213: 7533482013667449997
+    second: Hotel Manager_239
+  - first:
+      213: 2432700386725328741
+    second: Hotel Manager_240
+  - first:
+      213: -6232158579746559784
+    second: Hotel Manager_241
+  - first:
+      213: 5393646505411301694
+    second: Hotel Manager_242
+  - first:
+      213: -4302669598743112953
+    second: Hotel Manager_243
+  - first:
+      213: 8659598509339728937
+    second: Hotel Manager_244
+  - first:
+      213: -2444167694156570449
+    second: Hotel Manager_245
+  - first:
+      213: -8823296835545082908
+    second: Hotel Manager_246
+  - first:
+      213: -2289011628668797020
+    second: Hotel Manager_247
+  - first:
+      213: -3861754338952697245
+    second: Hotel Manager_248
+  - first:
+      213: -2869451106712790021
+    second: Hotel Manager_249
+  - first:
+      213: 8088857218542366093
+    second: Hotel Manager_250
+  - first:
+      213: 2257142134187182933
+    second: Hotel Manager_251
+  - first:
+      213: 6313843594461930927
+    second: Hotel Manager_252
+  - first:
+      213: -8012677192103663704
+    second: Hotel Manager_253
+  - first:
+      213: -2430399614910942142
+    second: Hotel Manager_254
+  - first:
+      213: -4848208593823690863
+    second: Hotel Manager_255
+  - first:
+      213: -6302869883641539681
+    second: Hotel Manager_256
+  - first:
+      213: 5664808648861465865
+    second: Hotel Manager_257
+  - first:
+      213: 4492668298601918133
+    second: Hotel Manager_258
+  - first:
+      213: -2203576517200567614
+    second: Hotel Manager_259
+  - first:
+      213: 516333995422531558
+    second: Hotel Manager_260
+  - first:
+      213: -73305350844294201
+    second: Hotel Manager_261
+  - first:
+      213: 8046506486904860657
+    second: Hotel Manager_262
+  - first:
+      213: -2326637829207608770
+    second: Hotel Manager_263
+  - first:
+      213: 7955511053383559744
+    second: Hotel Manager_264
+  - first:
+      213: 1838974102312570085
+    second: Hotel Manager_265
+  - first:
+      213: -8421419707635735972
+    second: Hotel Manager_266
+  - first:
+      213: -3442227857550194207
+    second: Hotel Manager_267
+  - first:
+      213: -439680192756529880
+    second: Hotel Manager_268
+  - first:
+      213: 5767148922903921809
+    second: Hotel Manager_269
+  - first:
+      213: -8915939822095060281
+    second: Hotel Manager_270
+  - first:
+      213: -1691076246580279683
+    second: Hotel Manager_271
+  - first:
+      213: -8492192656121141146
+    second: Hotel Manager_272
+  - first:
+      213: -4597881490700810442
+    second: Hotel Manager_273
+  - first:
+      213: 7285701275311241762
+    second: Hotel Manager_274
+  - first:
+      213: 3945788716915398721
+    second: Hotel Manager_275
+  - first:
+      213: 7912714143624934531
+    second: Hotel Manager_276
+  - first:
+      213: 230203907828723080
+    second: Hotel Manager_277
+  - first:
+      213: 1359500641539032541
+    second: Hotel Manager_278
+  - first:
+      213: 4560066689626684987
+    second: Hotel Manager_279
+  - first:
+      213: 8365909266955070987
+    second: Hotel Manager_280
+  - first:
+      213: -8910216027841046724
+    second: Hotel Manager_281
+  - first:
+      213: 1985024330066939131
+    second: Hotel Manager_282
+  - first:
+      213: -3007468756667830790
+    second: Hotel Manager_283
+  - first:
+      213: -8347040767861437055
+    second: Hotel Manager_284
+  - first:
+      213: 439918491290328424
+    second: Hotel Manager_285
+  - first:
+      213: -8548867481796784028
+    second: Hotel Manager_286
+  - first:
+      213: 3096492717575253668
+    second: Hotel Manager_287
+  - first:
+      213: 8488795118515517944
+    second: Hotel Manager_288
+  - first:
+      213: 8693313297598591183
+    second: Hotel Manager_289
+  - first:
+      213: -7668613557639476809
+    second: Hotel Manager_290
+  - first:
+      213: -6061911492413954380
+    second: Hotel Manager_291
+  - first:
+      213: 7193750727945489857
+    second: Hotel Manager_292
+  - first:
+      213: -1598187277033822060
+    second: Hotel Manager_293
+  - first:
+      213: 4956327716828405840
+    second: Hotel Manager_294
+  - first:
+      213: -930546675995429860
+    second: Hotel Manager_295
+  - first:
+      213: -7242907002653166153
+    second: Hotel Manager_296
+  - first:
+      213: 4289568913745728352
+    second: Hotel Manager_297
+  - first:
+      213: -3692366738249569932
+    second: Hotel Manager_298
+  - first:
+      213: -2489062712371636749
+    second: Hotel Manager_299
+  - first:
+      213: -2454194734981803694
+    second: Hotel Manager_300
+  - first:
+      213: -8882616352216442250
+    second: Hotel Manager_301
+  - first:
+      213: 8928684234179767062
+    second: Hotel Manager_302
+  - first:
+      213: 5843535962855643818
+    second: Hotel Manager_303
+  - first:
+      213: -7928417940254571344
+    second: Hotel Manager_304
+  - first:
+      213: -4197988124788265984
+    second: Hotel Manager_305
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hotel Manager_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604af6fc7e956ebe0800000000000000
+      internalID: -1448371378000518138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1248
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14ac2668eccdbee0800000000000000
+      internalID: -1243612623565708257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714faafef6c9ca60800000000000000
+      internalID: 7694900236768985457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff93d3b827df5f0800000000000000
+      internalID: -721294422956179471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1184
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46722b2be895e040800000000000000
+      internalID: 4676311923902543436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1184
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e04be013fda62ab0800000000000000
+      internalID: -5033144274067439392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1184
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb2e8022178aa80800000000000000
+      internalID: -8455383909396202510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1184
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff25a46ec7fd4e70800000000000000
+      internalID: 9101202887809511417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1184
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d06a71eeccb8b70800000000000000
+      internalID: 8902434411398958451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1184
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392b841829038dfd0800000000000000
+      internalID: -2317048602489736557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1184
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ca2b307db98edb0800000000000000
+      internalID: -4762385258161984484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1184
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e170528f8827240800000000000000
+      internalID: 4788039953202749010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1184
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a3a24eb32618e30800000000000000
+      internalID: 4503989111717771830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1184
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776cc80503ada9010800000000000000
+      internalID: 1196508552064976503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_14
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1184
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e28938ad9862f0800000000000000
+      internalID: -979359573108137096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1184
+        width: 222
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dedbaaf10d1b800800000000000000
+      internalID: 626510657608346987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f791ae31c55464530800000000000000
+      internalID: 3838831994153343359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1122
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a330617b2a59ac5e0800000000000000
+      internalID: -1888532567639588038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7403dc914e637b0800000000000000
+      internalID: -5244753916558555153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1120
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9172048ebfa9470800000000000000
+      internalID: 8402305029740370411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1122
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752af68e4d2841530800000000000000
+      internalID: 3824825834488701527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a715a5ad68042cda0800000000000000
+      internalID: -5926103211733003910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f964411cd392aa40800000000000000
+      internalID: 5378023478425577970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1056
+        width: 32
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f4d927a9657270800000000000000
+      internalID: 8247614459281208436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_24
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1122
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5b31f2dcc9f0a10800000000000000
+      internalID: 1877891974708835774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1120
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c145ffe95395f3550800000000000000
+      internalID: 6142726503592317980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1120
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4761898f5782db90800000000000000
+      internalID: -7218558408322881715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_27
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1122
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c744f2b567374120800000000000000
+      internalID: 2397946236531656641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_28
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1120
+        width: 222
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09c1f7b6bb640ba0800000000000000
+      internalID: -6123651160802735859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab57b83785af4fa0800000000000000
+      internalID: -5814246593721312339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1090
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e143db37204c36a30800000000000000
+      internalID: 4207421991704933406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077eef41307db1000800000000000000
+      internalID: 7836232608311152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1082
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a97a2ecbfc376410800000000000000
+      internalID: 1470210855553104296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1090
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c35bc9d8cf50f080800000000000000
+      internalID: -9155712726192139319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1064
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f1c42637906a440800000000000000
+      internalID: 4946651631888113423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1056
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0de16903be1b8880800000000000000
+      internalID: -8607752508483179252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1074
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3157ae41d72c949b0800000000000000
+      internalID: -5095327660915395309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 994
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a62b9edb3aa66b20800000000000000
+      internalID: 3127374165369890466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 994
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9083782b29c44a0800000000000000
+      internalID: -6607745257788929606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 994
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9fbb598a6c20660800000000000000
+      internalID: 7350655969191000555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 994
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057aae163bec51e70800000000000000
+      internalID: 9085395093127079760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 994
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4854432b41edba0800000000000000
+      internalID: -6062385292780403474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 994
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e177cc46f686f340800000000000000
+      internalID: 4897250037220209124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 994
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d1cc5d096ef73c0800000000000000
+      internalID: -4359512404534747772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 994
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9cf226f39b60de0800000000000000
+      internalID: -1367201754978989579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_45
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 994
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b9236b9bc43d650800000000000000
+      internalID: 6256428667857181463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 994
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453956c91f572f8a0800000000000000
+      internalID: -6272821650402208940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_47
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 994
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6503aec19d600e630800000000000000
+      internalID: 3954168002394075222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 994
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d868d39e5b66cc140800000000000000
+      internalID: 4741277439202526861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908cfe84ed40a14b0800000000000000
+      internalID: -5469053444735121399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 930
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149f4a922fdfc1700800000000000000
+      internalID: 512563674135984449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 930
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8897386a5d8773f0800000000000000
+      internalID: -903097780829448050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 930
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36b0bc1500620560800000000000000
+      internalID: 7278485522856588858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 930
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe44bb4cda0d290800000000000000
+      internalID: -7867597488549203984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 930
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae83318d4db11640800000000000000
+      internalID: 5049024797836807844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 930
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6235e8d83a564620800000000000000
+      internalID: 2757991022014575212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 930
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb1a07c141e17350800000000000000
+      internalID: 6012834650144775152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 930
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f237e2272e583d0800000000000000
+      internalID: -3204906579770790067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 930
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ef764ffb467550800000000000000
+      internalID: 6158193100247262459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 930
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3911efe8db18610800000000000000
+      internalID: 1621785762675659755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_60
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 930
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c1a0b0bcdca1de0800000000000000
+      internalID: -1361549665378886618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 384
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c25f337909aad260800000000000000
+      internalID: 7123191618693190341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_62
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 864
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d385e5b80742fe210800000000000000
+      internalID: 1364349277909702717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 384
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b012a9f8b82d52820800000000000000
+      internalID: 2892949832506941707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_64
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 800
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf82c72f6459f0f0800000000000000
+      internalID: -1082741399020728387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_65
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322269a14fbbac040800000000000000
+      internalID: 4668750620815401507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_66
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634a0e2874de1ba10800000000000000
+      internalID: 1923579407258133558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_67
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a07a493ecb3100800000000000000
+      internalID: 88891363121209917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_68
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f37dc1e9c844030800000000000000
+      internalID: 3478059422953455372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_69
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a880a1f1e02e0840800000000000000
+      internalID: 5192123575198320805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_70
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7941f437b2bfa9a20800000000000000
+      internalID: 3070042260043142295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_71
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ae71e82f3d5d0d0800000000000000
+      internalID: -3398577305061692850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_72
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6f3fe2ed473fe60800000000000000
+      internalID: 7994862261132064463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_73
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 806
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d8cc9ae4613d8b0800000000000000
+      internalID: -5128731023532847714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_74
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 808
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a1f01ee99c07620800000000000000
+      internalID: 2769935455050734107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_75
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 806
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfc30bc2da350830800000000000000
+      internalID: 4036697318031085498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_76
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 806
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12404f8317b3cde0800000000000000
+      internalID: -1314005371626438116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287a056fa80ff940800000000000000
+      internalID: 5331990033237440547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 738
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054f3fa09ad9a1cd0800000000000000
+      internalID: -2586581686612134832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243727c0bfd2484c0800000000000000
+      internalID: -4286250389081001150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdd0182c30dca600800000000000000
+      internalID: 480988217010609662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 738
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5e88015cc14150800000000000000
+      internalID: 5855185638966320383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d85c9a4ded9d70800000000000000
+      internalID: 9051651730790994951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aaafc430f6f26e0800000000000000
+      internalID: -1860146061113644538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_84
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 736
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a71a4ac1d1459b30800000000000000
+      internalID: 4293410189065459616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_85
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 738
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ac5ad870b7a210800000000000000
+      internalID: 1344237046899451741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_86
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 736
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e3ed20ccadfae00800000000000000
+      internalID: 1058305007211658852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_87
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 736
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbd82f6c3490a0c0800000000000000
+      internalID: -4566487034869785678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_88
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 738
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3b9b6303fdbfb40800000000000000
+      internalID: 5475215170168533972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_89
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 736
+        width: 222
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db070ae59164d5090800000000000000
+      internalID: -8044196284638138179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_90
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd196a3a880ab4d00800000000000000
+      internalID: 958035854467961311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_91
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f5707feb0368e0800000000000000
+      internalID: -1701503111204047843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_92
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ace29b192c0f7f0800000000000000
+      internalID: -580750420797896174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_93
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 744
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c7b411ebc825090800000000000000
+      internalID: -8047214836195820423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_94
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 744
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a829b183c8a8a80800000000000000
+      internalID: -8463798377080780167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_95
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 744
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256c148d6b5930d00800000000000000
+      internalID: 937757759967970898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_96
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a377a0ac08820b0d0800000000000000
+      internalID: -3409180384308857030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_97
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03218373be70dbc00800000000000000
+      internalID: 917898605878579760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_98
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9be96f2139446bf0800000000000000
+      internalID: -332059996920878181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_99
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 736
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689c3f44487994e50800000000000000
+      internalID: 6794128107213408646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_100
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 736
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bc6664b81482e40800000000000000
+      internalID: 5631823400464206684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_101
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 736
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b979b429e17532120800000000000000
+      internalID: 2387848016251557787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc8be506897bc80800000000000000
+      internalID: -8307003447988138885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f950e04e715f8f0800000000000000
+      internalID: -507473114754080921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43afcb0af49035410800000000000000
+      internalID: 1464524541429348916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fa5b754588becf0800000000000000
+      internalID: -221933860794552445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2297bb41493f2720800000000000000
+      internalID: 2823538443990569519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_107
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5a6513bee492a10800000000000000
+      internalID: 1885124691083306489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a65f2aec17494f70800000000000000
+      internalID: 9171940305630353058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348567d64f1347a0800000000000000
+      internalID: -6394232656814046159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a5740dd9d4ebd0800000000000000
+      internalID: -2601715141427484839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bbe552dc2957020800000000000000
+      internalID: 2338936991281756987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_112
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96afc01b91315f450800000000000000
+      internalID: 6121820269545585257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_113
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d917939f6d498350800000000000000
+      internalID: 6019427518570240464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 384
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0939d366c80123840800000000000000
+      internalID: 5202238714763121552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_115
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f465cfae3b95b5b60800000000000000
+      internalID: 7735875414215382607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_116
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0184f634dc80cf0800000000000000
+      internalID: -285752886824529670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_117
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 672
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ffdf6170f4af960800000000000000
+      internalID: 7636503010029207403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_118
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 672
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05ad46bd19a5d60800000000000000
+      internalID: 7879770869513998551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_119
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 672
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d42f6b0628b57d0800000000000000
+      internalID: -2928603780776571589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_120
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 672
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d42b192d08828f50800000000000000
+      internalID: 6882212770681136340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_121
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61545060e03cef80800000000000000
+      internalID: -8076026291535195796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_122
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f022a8943a6c977e0800000000000000
+      internalID: -1767162974150450673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_123
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05be6ba808dce9150800000000000000
+      internalID: 5881364115359198032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_124
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e94d939cae4eec00800000000000000
+      internalID: 931768676030171622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_125
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 672
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a00e1b8206af0c0800000000000000
+      internalID: -4541211546350515558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_126
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 672
+        width: 414
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbd574cdb1298040800000000000000
+      internalID: 4650285189165341617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887fbb93bac2cc90800000000000000
+      internalID: -7150930385549952896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22727cd68437c0e0800000000000000
+      internalID: -2249771735019523537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a7e18c494db390800000000000000
+      internalID: -7800998386590046876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a10c24d5a8dff60800000000000000
+      internalID: 8069758240474274372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512e83f0226cee20800000000000000
+      internalID: 3381185313913053526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e83b0ebc9d6af0800000000000000
+      internalID: -401492451720109441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6bf6354fc444890800000000000000
+      internalID: -7474764869272619322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968089e1c14359000800000000000000
+      internalID: 41997066906896489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_135
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 320
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d825f442605ba4f0800000000000000
+      internalID: -816470524443678511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_136
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7df9a586ee08e50800000000000000
+      internalID: 6809704768548624316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_137
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba709d754c76a4b0800000000000000
+      internalID: -5429515662847345986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_138
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957f3a74740379700800000000000000
+      internalID: 546958962451543897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_139
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e8fad24fea12a0800000000000000
+      internalID: -6765832419750125451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_140
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f903969d637976a30800000000000000
+      internalID: 4208498638632595615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_141
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd45a40bc4f9e29d0800000000000000
+      internalID: -2797123166826507044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_142
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 608
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5be73e9e0f8de50800000000000000
+      internalID: 6834477321869506012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_143
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 608
+        width: 350
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d77ed011638cf8a0800000000000000
+      internalID: -6269992128288491562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_144
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 612
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2c7bc2fc5789d00800000000000000
+      internalID: 979662451622003440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_145
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 612
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e9aadc6d5d1ac60800000000000000
+      internalID: 7827772745896861315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d8b39b1a8cdb50800000000000000
+      internalID: 6619317403374899954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c413e4b5ed472510800000000000000
+      internalID: 1524272647865832646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a3cd3b7fa067280800000000000000
+      internalID: -9046030742536308101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6f40be2b86ad2c0800000000000000
+      internalID: -4406094167772170559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee87a8f5247a134c0800000000000000
+      internalID: -4309479464904263442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2010ddd999bbc50800000000000000
+      internalID: 6682103375431008965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def506a8a6802e180800000000000000
+      internalID: -9087691844399112211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_153
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d5b324c9516ab30800000000000000
+      internalID: 4298146655241985424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e45f80f0a1b4f00800000000000000
+      internalID: 1102003185699343974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ccadae609813f10800000000000000
+      internalID: 2247728351837604942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_156
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19da74dd21c754e0800000000000000
+      internalID: -1992911907505645282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_157
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0c60a05ad15ea20800000000000000
+      internalID: 3090909313934737622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_158
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26060eefa7d42560800000000000000
+      internalID: 7288187247604925994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_159
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cc0065dfa62aba0800000000000000
+      internalID: -6079178910694585200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_160
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 448
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf14d2f1018dba490800000000000000
+      internalID: -7733850371324558852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_161
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6802d6e32fb9670800000000000000
+      internalID: 8546691067798390491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_162
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5328ba57ac586cbd0800000000000000
+      internalID: -2610251829410561483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_163
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364506291ddc81580800000000000000
+      internalID: -8856102367236434845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_164
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441fbc5952cdcd650800000000000000
+      internalID: 6259119636123218244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_165
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cd7dbbe5da84b90800000000000000
+      internalID: -7257360177117537199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_166
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8670c23043358d4c0800000000000000
+      internalID: -4262565564449552536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_167
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df348983b66c00a00800000000000000
+      internalID: 720794104192582653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_168
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c237adb4115b50800000000000000
+      internalID: 6580063335351502502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_169
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 544
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa9bab2a8f7692d0800000000000000
+      internalID: -3272287847823205714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_170
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4db6314f62b9a20800000000000000
+      internalID: 3070090400722834613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_171
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d049bb758a1346090800000000000000
+      internalID: -8042248435480685555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_172
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3f18e6f2ef30d60800000000000000
+      internalID: 7855401654735205285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_173
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 544
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46313c2d525b4f4d0800000000000000
+      internalID: -3101655069297011868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_174
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 544
+        width: 478
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a216c56c13ee6e360800000000000000
+      internalID: 7198702951947067690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2624211c1fc06d8a0800000000000000
+      internalID: -6280818397855727006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74819da57110ca180800000000000000
+      internalID: -9102899547002562489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce2aeeb2af11e760800000000000000
+      internalID: 7485298839514656457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b939781e15a1b06b0800000000000000
+      internalID: -5329136795084418149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_179
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01151778cb18c2e0800000000000000
+      internalID: -2105402277990428403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_180
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b354b255218df10800000000000000
+      internalID: 2294604167152745266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_181
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a60fa984e440b00800000000000000
+      internalID: 793845508068108816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_182
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce13b1a009b11fa0800000000000000
+      internalID: -5831676630104072501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2655258025f2040800000000000000
+      internalID: 4625005538027332301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_184
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b3ab1d1d9e82410800000000000000
+      internalID: 1452667967203064610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_185
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bf1a8b27a1531b0800000000000000
+      internalID: -5677602675204424920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_186
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143404680bb15fd50800000000000000
+      internalID: 6770348059801961281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d4cf4d45b259380800000000000000
+      internalID: -8965211839860552433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_188
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b567801095ef4d40800000000000000
+      internalID: 5570923670995953081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_189
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 448
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b5cd8b746867540800000000000000
+      internalID: 5005335678471134111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_190
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe25f2d12fe75f4e0800000000000000
+      internalID: -1948511685431045393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_191
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a1fb138eaa5d80800000000000000
+      internalID: -8261098688324983009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_192
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799144d50e08f0fb0800000000000000
+      internalID: -4679379786688882281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_193
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7b1e5ba7434950800000000000000
+      internalID: 6432063494159039693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_194
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79c18b364625b660800000000000000
+      internalID: 7400863645741205884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_195
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9628d16049bf8a0800000000000000
+      internalID: -6270255302197483092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_196
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5268f6cfc30dd0800000000000000
+      internalID: -2520942912919675138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_197
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b39c472a39c4a00800000000000000
+      internalID: 742130364562619179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_198
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86936bb678b51590800000000000000
+      internalID: -7704048767457847666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_199
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 480
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c291214ae2aa70150800000000000000
+      internalID: 5838822559207004460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_200
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ce7c2c59cebe50800000000000000
+      internalID: 6827115482860929529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_201
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 480
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec204c25baa2d4200800000000000000
+      internalID: 165835676598928078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_202
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 480
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a6ad4d16b4ba0d0800000000000000
+      internalID: -3410549409248024023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_203
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 480
+        width: 478
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd484334f59d8fc0800000000000000
+      internalID: -3490969260077331012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf0316d43f47060800000000000000
+      internalID: 6950447638608149605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e40a0efe1ec76210800000000000000
+      internalID: 1326255247790310631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be1d744dd11b9120800000000000000
+      internalID: 2421548866676268720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_207
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0699e412d36324800800000000000000
+      internalID: 595097736946030944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013ee6d291d39470800000000000000
+      internalID: 8400288158577471747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_209
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810b488a9b4f99850800000000000000
+      internalID: 6384403025007783960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_210
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4f1c77aa04145f0800000000000000
+      internalID: -774266560033196818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_211
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 416
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0248b3310e96650800000000000000
+      internalID: 6226754333023936752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_212
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 416
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b49daa5472449f0800000000000000
+      internalID: -485219679676576917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_213
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 416
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc03485ff33f31cb0800000000000000
+      internalID: -4894300913994026801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_214
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28797934f9313b9e0800000000000000
+      internalID: -1606919067286399102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_215
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6a52004d7c9c480800000000000000
+      internalID: -8878345477034760472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_216
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 416
+        width: 222
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ea11d8bcf7801c0800000000000000
+      internalID: -4537236112353939896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2da06853ea6dabf0800000000000000
+      internalID: -311475274545844948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bee48591a4dc4660800000000000000
+      internalID: 7371500480561999543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_219
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe2aa1e2c7c7dd30800000000000000
+      internalID: 4456249996130004732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbcc7ef8e1a2f880800000000000000
+      internalID: -8578616318113297475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf703470885a572d0800000000000000
+      internalID: -3281534749813569540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_222
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e2174221d12cf0800000000000000
+      internalID: -278711756768745826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b57705d9ea80ef0800000000000000
+      internalID: -141671397579072622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_224
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 352
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e1d1902ca3fda0800000000000000
+      internalID: -5912192629921945486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_225
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 352
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2861696f63f9015d0800000000000000
+      internalID: -3093797885589449086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_226
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 352
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d643ddbd6078840800000000000000
+      internalID: 5226153433965554945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_227
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc9d5bb50f0bfe0800000000000000
+      internalID: -1175175226060059857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_228
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 352
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1f6f6f22746f020800000000000000
+      internalID: 2375164068982354425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_229
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 352
+        width: 222
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab10045250b4d60800000000000000
+      internalID: 7875394030933228115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5effd11101bbfd070800000000000000
+      internalID: 8133425129735454693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_231
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd2a295bb9b9130800000000000000
+      internalID: 3574621933400154088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_232
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008d22b3331837e80800000000000000
+      internalID: -8182054040966604800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_233
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c8c187ab9c25f00800000000000000
+      internalID: 1104166661375429648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_234
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847706c9737a8140800000000000000
+      internalID: 4722714126102000772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_235
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3324958313ec020800000000000000
+      internalID: 2363880972501529552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_236
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c9d2b919c11eea0800000000000000
+      internalID: -5845359429650899874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_237
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd8ef37c22b3e10800000000000000
+      internalID: 2178373083929828835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_238
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 288
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd2db9792d73b1b0800000000000000
+      internalID: -5642028291075527176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_239
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 288
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c51723afd4c8860800000000000000
+      internalID: 7533482013667449997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_240
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f7bbdc10b2c120800000000000000
+      internalID: 2432700386725328741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_241
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8ad468acce289a0800000000000000
+      internalID: -6232158579746559784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_242
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 288
+        width: 222
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31511f7be41ada40800000000000000
+      internalID: 5393646505411301694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_243
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 300
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7035b05ebc8d944c0800000000000000
+      internalID: -4302669598743112953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_244
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 302
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c52b6b6f21d2870800000000000000
+      internalID: 8659598509339728937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_245
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 300
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ef429e62941ed0800000000000000
+      internalID: -2444167694156570449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_246
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 296
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3d181a64a5d8580800000000000000
+      internalID: -8823296835545082908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_247
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 304
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af357a2d0ccb30e0800000000000000
+      internalID: -2289011628668797020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_248
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 300
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa6e0a3ea486ac0800000000000000
+      internalID: -3861754338952697245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_249
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 298
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb5804eb69ad28d0800000000000000
+      internalID: -2869451106712790021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_250
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 300
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d621e98c4614070800000000000000
+      internalID: 8088857218542366093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_251
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 302
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4bcbefcaf25f10800000000000000
+      internalID: 2257142134187182933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_252
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 300
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa567470c474f9750800000000000000
+      internalID: 6313843594461930927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_253
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 300
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a769c8fb804dc090800000000000000
+      internalID: -8012677192103663704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_254
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244bcf25d6c754ed0800000000000000
+      internalID: -2430399614910942142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_255
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f842888f3b7bcb0800000000000000
+      internalID: -4848208593823690863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_256
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93d9002c35b788a0800000000000000
+      internalID: -6302869883641539681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_257
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90db2f3e3717d9e40800000000000000
+      internalID: 5664808648861465865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_258
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 298
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be63dfa30a295e30800000000000000
+      internalID: 4492668298601918133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_259
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 296
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c22ed825d25b61e0800000000000000
+      internalID: -2203576517200567614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_260
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef3e9e78036a2700800000000000000
+      internalID: 516333995422531558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_261
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5acafb219bfef0800000000000000
+      internalID: -73305350844294201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_262
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff27d2840feaaf60800000000000000
+      internalID: 8046506486904860657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_263
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32381da83f16bfd0800000000000000
+      internalID: -2326637829207608770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_264
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 288
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aee972727a76e60800000000000000
+      internalID: 7955511053383559744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_265
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eccb77e339558910800000000000000
+      internalID: 1838974102312570085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_266
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 294
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52e5edf46b112b80800000000000000
+      internalID: -8421419707635735972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_267
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 292
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e944c25000ca30d0800000000000000
+      internalID: -3442227857550194207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_268
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825c8f7b131f5e9f0800000000000000
+      internalID: -439680192756529880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_269
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1940774c367090050800000000000000
+      internalID: 5767148922903921809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b34178f7344480800000000000000
+      internalID: -8915939822095060281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_271
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d764b7a0d171888e0800000000000000
+      internalID: -1691076246580279683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_272
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e7b7d5cba52a80800000000000000
+      internalID: -8492192656121141146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_273
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6374f63152b0130c0800000000000000
+      internalID: -4597881490700810442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_274
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a798665b20c1560800000000000000
+      internalID: 7285701275311241762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_275
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 224
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1489c7eaee142c630800000000000000
+      internalID: 3945788716915398721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_276
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 224
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38439fb179b9fcd60800000000000000
+      internalID: 7912714143624934531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_277
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 224
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88da9080c39d13300800000000000000
+      internalID: 230203907828723080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_278
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 224
+        width: 158
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd589da61aaedd210800000000000000
+      internalID: 1359500641539032541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e3a437e7c984f30800000000000000
+      internalID: 4560066689626684987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_280
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e6100672ea91470800000000000000
+      internalID: 8365909266955070987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_281
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37da842bbd885480800000000000000
+      internalID: -8910216027841046724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_282
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcc5207c193c8b10800000000000000
+      internalID: 1985024330066939131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_283
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6abd99135346d0800000000000000
+      internalID: -3007468756667830790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_284
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4ae965aa592c80800000000000000
+      internalID: -8347040767861437055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_285
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5c7b7987ea1600800000000000000
+      internalID: 439918491290328424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_286
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605d93b1525c5980800000000000000
+      internalID: -8548867481796784028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_287
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae28a088b3f8fa20800000000000000
+      internalID: 3096492717575253668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_288
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ff2a4f224ec570800000000000000
+      internalID: 8488795118515517944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_289
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc03b80926ad4a870800000000000000
+      internalID: 8693313297598591183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_290
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b98721799c939590800000000000000
+      internalID: -7668613557639476809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_291
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 224
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6eec27d93cfdba0800000000000000
+      internalID: -6061911492413954380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_292
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd06e54c2655d360800000000000000
+      internalID: 7193750727945489857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_293
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a9db932912d9e0800000000000000
+      internalID: -1598187277033822060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_294
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050eaf77cc968c440800000000000000
+      internalID: 4956327716828405840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_295
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c143f5a7ab80613f0800000000000000
+      internalID: -930546675995429860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_296
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 146
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b53ba5a4760c7b90800000000000000
+      internalID: -7242907002653166153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_297
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635f5f233c978b30800000000000000
+      internalID: 4289568913745728352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_298
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479aa2ab30412ccc0800000000000000
+      internalID: -3692366738249569932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_299
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f51b6596a2157dd0800000000000000
+      internalID: -2489062712371636749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_300
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25196c334e2f0fdd0800000000000000
+      internalID: -2454194734981803694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_301
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a10126d7b9ab480800000000000000
+      internalID: -8882616352216442250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_302
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6ae9310f09eb70800000000000000
+      internalID: 8928684234179767062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_303
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 32
+        width: 126
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa1b327ff8681150800000000000000
+      internalID: 5843535962855643818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_304
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 46
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ca40d3e998f190800000000000000
+      internalID: -7928417940254571344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Manager_305
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1248
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cefaada00cdb5c0800000000000000
+      internalID: -4197988124788265984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

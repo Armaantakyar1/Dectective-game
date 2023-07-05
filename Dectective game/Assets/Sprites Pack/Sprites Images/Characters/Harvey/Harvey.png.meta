@@ -1,0 +1,7933 @@
+fileFormatVersion: 2
+guid: e1f45833537934fb9abd7d49032c4b0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3452801166750831739
+    second: Harvey_0
+  - first:
+      213: -8788539661129106468
+    second: Harvey_1
+  - first:
+      213: -3350305223359078546
+    second: Harvey_2
+  - first:
+      213: 3050825350638916687
+    second: Harvey_3
+  - first:
+      213: -1465231350486094767
+    second: Harvey_4
+  - first:
+      213: 7206302739094132782
+    second: Harvey_5
+  - first:
+      213: 8346153032363680085
+    second: Harvey_6
+  - first:
+      213: -6948179569697364238
+    second: Harvey_7
+  - first:
+      213: 6525877889169152892
+    second: Harvey_8
+  - first:
+      213: -2042258126146616071
+    second: Harvey_9
+  - first:
+      213: -1994110875370777428
+    second: Harvey_10
+  - first:
+      213: 5970195226580695467
+    second: Harvey_11
+  - first:
+      213: -3208203832697753415
+    second: Harvey_12
+  - first:
+      213: -2512445383779244627
+    second: Harvey_13
+  - first:
+      213: -6192943905326564029
+    second: Harvey_14
+  - first:
+      213: -4396783045945590851
+    second: Harvey_15
+  - first:
+      213: -3374702276980283539
+    second: Harvey_16
+  - first:
+      213: 6904526836793427966
+    second: Harvey_17
+  - first:
+      213: 727419837115269774
+    second: Harvey_18
+  - first:
+      213: -8686416186563487926
+    second: Harvey_19
+  - first:
+      213: -7558241275573156685
+    second: Harvey_20
+  - first:
+      213: -7943988822923464310
+    second: Harvey_21
+  - first:
+      213: -1817595006048230457
+    second: Harvey_22
+  - first:
+      213: 125000683966733937
+    second: Harvey_23
+  - first:
+      213: 8750932794164667294
+    second: Harvey_24
+  - first:
+      213: 4893185954407686510
+    second: Harvey_25
+  - first:
+      213: -2790385217501805686
+    second: Harvey_26
+  - first:
+      213: 7027123348241251693
+    second: Harvey_27
+  - first:
+      213: -6423141407828710918
+    second: Harvey_28
+  - first:
+      213: -6316147137457430479
+    second: Harvey_29
+  - first:
+      213: 197704185532643695
+    second: Harvey_30
+  - first:
+      213: 3956397683877030635
+    second: Harvey_31
+  - first:
+      213: -1907114783194705186
+    second: Harvey_32
+  - first:
+      213: -5079033614138640574
+    second: Harvey_33
+  - first:
+      213: 6097831433109394322
+    second: Harvey_34
+  - first:
+      213: -3466361402312634061
+    second: Harvey_35
+  - first:
+      213: 4147585316928668181
+    second: Harvey_36
+  - first:
+      213: -9201432700663733938
+    second: Harvey_37
+  - first:
+      213: -8652996405000197636
+    second: Harvey_38
+  - first:
+      213: 269173496132466237
+    second: Harvey_39
+  - first:
+      213: 8366103504855897331
+    second: Harvey_40
+  - first:
+      213: 6138646448171034109
+    second: Harvey_41
+  - first:
+      213: 8946597253289153364
+    second: Harvey_42
+  - first:
+      213: -2940261666208463182
+    second: Harvey_43
+  - first:
+      213: 2062106130558227877
+    second: Harvey_44
+  - first:
+      213: 7143132379263724737
+    second: Harvey_45
+  - first:
+      213: -4518366410134909344
+    second: Harvey_46
+  - first:
+      213: 6635951391268195399
+    second: Harvey_47
+  - first:
+      213: -4114364988652519872
+    second: Harvey_48
+  - first:
+      213: -4825127097958358449
+    second: Harvey_49
+  - first:
+      213: 7976508495031862817
+    second: Harvey_50
+  - first:
+      213: -8839318513139645429
+    second: Harvey_51
+  - first:
+      213: -4579658380047862260
+    second: Harvey_52
+  - first:
+      213: -685496068352356884
+    second: Harvey_53
+  - first:
+      213: 7039987746691969723
+    second: Harvey_54
+  - first:
+      213: -6191599365582363346
+    second: Harvey_55
+  - first:
+      213: -4524575342376639710
+    second: Harvey_56
+  - first:
+      213: 3714417191441674760
+    second: Harvey_57
+  - first:
+      213: 4323094199101951412
+    second: Harvey_58
+  - first:
+      213: 1492694690633424961
+    second: Harvey_59
+  - first:
+      213: 2544479113257249665
+    second: Harvey_60
+  - first:
+      213: -3969574674058958290
+    second: Harvey_61
+  - first:
+      213: 6141905392320210199
+    second: Harvey_62
+  - first:
+      213: -6795342290791956397
+    second: Harvey_63
+  - first:
+      213: -8815030637427122696
+    second: Harvey_64
+  - first:
+      213: 5957582929917514671
+    second: Harvey_65
+  - first:
+      213: -3858621294800632711
+    second: Harvey_66
+  - first:
+      213: -1203940224759388303
+    second: Harvey_67
+  - first:
+      213: -632429860583084455
+    second: Harvey_68
+  - first:
+      213: 890244400131647080
+    second: Harvey_69
+  - first:
+      213: 3084285519209170568
+    second: Harvey_70
+  - first:
+      213: -3768802898356646151
+    second: Harvey_71
+  - first:
+      213: -4976954193640556286
+    second: Harvey_72
+  - first:
+      213: -8347698213841464587
+    second: Harvey_73
+  - first:
+      213: -3918339461782638462
+    second: Harvey_74
+  - first:
+      213: -8320443527933552556
+    second: Harvey_75
+  - first:
+      213: 69499651489236872
+    second: Harvey_76
+  - first:
+      213: 2853105055906668965
+    second: Harvey_77
+  - first:
+      213: 443876297268627487
+    second: Harvey_78
+  - first:
+      213: 4349248841623277537
+    second: Harvey_79
+  - first:
+      213: -3498353722987458223
+    second: Harvey_80
+  - first:
+      213: -5782613895450538880
+    second: Harvey_81
+  - first:
+      213: -2251585534199778345
+    second: Harvey_82
+  - first:
+      213: -8892603002710314319
+    second: Harvey_83
+  - first:
+      213: 7716816277416206412
+    second: Harvey_84
+  - first:
+      213: 6789727376474863607
+    second: Harvey_85
+  - first:
+      213: -1424791517456690462
+    second: Harvey_86
+  - first:
+      213: 7552351593272522980
+    second: Harvey_87
+  - first:
+      213: -764734345329288980
+    second: Harvey_88
+  - first:
+      213: 4105362510768866181
+    second: Harvey_89
+  - first:
+      213: 5947917676393223608
+    second: Harvey_90
+  - first:
+      213: -507110479545605770
+    second: Harvey_91
+  - first:
+      213: 4452999193040225572
+    second: Harvey_92
+  - first:
+      213: -5818895616029220479
+    second: Harvey_93
+  - first:
+      213: 4988909433815860185
+    second: Harvey_94
+  - first:
+      213: 1282947880776790401
+    second: Harvey_95
+  - first:
+      213: 8892098656824362068
+    second: Harvey_96
+  - first:
+      213: 1239429220300907918
+    second: Harvey_97
+  - first:
+      213: -234508759798655268
+    second: Harvey_98
+  - first:
+      213: 4104897507741707701
+    second: Harvey_99
+  - first:
+      213: 5128175430435282071
+    second: Harvey_100
+  - first:
+      213: 484276433982530739
+    second: Harvey_101
+  - first:
+      213: 6104168509219926916
+    second: Harvey_102
+  - first:
+      213: 3230640021038350513
+    second: Harvey_103
+  - first:
+      213: -2693207306828249204
+    second: Harvey_104
+  - first:
+      213: 423078014151389212
+    second: Harvey_105
+  - first:
+      213: 1285040701516860187
+    second: Harvey_106
+  - first:
+      213: -478695819232267937
+    second: Harvey_107
+  - first:
+      213: -3011407363628208376
+    second: Harvey_108
+  - first:
+      213: -4846535947155047703
+    second: Harvey_109
+  - first:
+      213: -2967270891627255309
+    second: Harvey_110
+  - first:
+      213: 978974429403401894
+    second: Harvey_111
+  - first:
+      213: 7314370085710249362
+    second: Harvey_112
+  - first:
+      213: 5563811870018169314
+    second: Harvey_113
+  - first:
+      213: -3794160393167079111
+    second: Harvey_114
+  - first:
+      213: -9111319807471920334
+    second: Harvey_115
+  - first:
+      213: -5334021662730305967
+    second: Harvey_116
+  - first:
+      213: 8623265682944106379
+    second: Harvey_117
+  - first:
+      213: 1901562448190139655
+    second: Harvey_118
+  - first:
+      213: -877516472551663777
+    second: Harvey_119
+  - first:
+      213: 723883542412845595
+    second: Harvey_120
+  - first:
+      213: -5735820113435970603
+    second: Harvey_121
+  - first:
+      213: 8837514948413680392
+    second: Harvey_122
+  - first:
+      213: -8245729160357447618
+    second: Harvey_123
+  - first:
+      213: 9030215263656396944
+    second: Harvey_124
+  - first:
+      213: 7759679642662430650
+    second: Harvey_125
+  - first:
+      213: -5177389660695919110
+    second: Harvey_126
+  - first:
+      213: -2343454612672225015
+    second: Harvey_127
+  - first:
+      213: 4388509374922670651
+    second: Harvey_128
+  - first:
+      213: 4031891901106932967
+    second: Harvey_129
+  - first:
+      213: 1222043825900694590
+    second: Harvey_130
+  - first:
+      213: -1862920530481205673
+    second: Harvey_131
+  - first:
+      213: 8331928731274310104
+    second: Harvey_132
+  - first:
+      213: 864824890410082442
+    second: Harvey_133
+  - first:
+      213: -2725029845222615535
+    second: Harvey_134
+  - first:
+      213: 6508287064425934771
+    second: Harvey_135
+  - first:
+      213: -7399783142402582007
+    second: Harvey_136
+  - first:
+      213: 278055519945456258
+    second: Harvey_137
+  - first:
+      213: -3304190300083765415
+    second: Harvey_138
+  - first:
+      213: -278370975161245854
+    second: Harvey_139
+  - first:
+      213: 8550396409830419170
+    second: Harvey_140
+  - first:
+      213: -6766893118858261978
+    second: Harvey_141
+  - first:
+      213: 7157427061775607019
+    second: Harvey_142
+  - first:
+      213: 893930060572295162
+    second: Harvey_143
+  - first:
+      213: -9012682482225075968
+    second: Harvey_144
+  - first:
+      213: 1574117644589006769
+    second: Harvey_145
+  - first:
+      213: -109714266000091188
+    second: Harvey_146
+  - first:
+      213: -8453429641231667759
+    second: Harvey_147
+  - first:
+      213: -496847433100354920
+    second: Harvey_148
+  - first:
+      213: 490472763910954968
+    second: Harvey_149
+  - first:
+      213: 1432859738017976933
+    second: Harvey_150
+  - first:
+      213: 8375243817717512549
+    second: Harvey_151
+  - first:
+      213: -6115788516866427121
+    second: Harvey_152
+  - first:
+      213: -5654419747717497861
+    second: Harvey_153
+  - first:
+      213: -7778244229123512815
+    second: Harvey_154
+  - first:
+      213: 6382714495251517080
+    second: Harvey_155
+  - first:
+      213: -9103757866343672693
+    second: Harvey_156
+  - first:
+      213: 8214956784245222757
+    second: Harvey_157
+  - first:
+      213: -84841039237437
+    second: Harvey_158
+  - first:
+      213: 7152473165355199711
+    second: Harvey_159
+  - first:
+      213: 1109847400283135570
+    second: Harvey_160
+  - first:
+      213: -4950118644078760830
+    second: Harvey_161
+  - first:
+      213: -1582381573147468563
+    second: Harvey_162
+  - first:
+      213: 869120045819659328
+    second: Harvey_163
+  - first:
+      213: -1093708226540665962
+    second: Harvey_164
+  - first:
+      213: -4545617563326192265
+    second: Harvey_165
+  - first:
+      213: 297936267698883774
+    second: Harvey_166
+  - first:
+      213: -384133447996854293
+    second: Harvey_167
+  - first:
+      213: -7532419495642267139
+    second: Harvey_168
+  - first:
+      213: -6998555777511892116
+    second: Harvey_169
+  - first:
+      213: 5020851667519111272
+    second: Harvey_170
+  - first:
+      213: -1360417788309242802
+    second: Harvey_171
+  - first:
+      213: -8863503569862884764
+    second: Harvey_172
+  - first:
+      213: 7709113688127743183
+    second: Harvey_173
+  - first:
+      213: -6168122137267967456
+    second: Harvey_174
+  - first:
+      213: 6128410084583691271
+    second: Harvey_175
+  - first:
+      213: 997809664750528831
+    second: Harvey_176
+  - first:
+      213: 1819821177382028735
+    second: Harvey_177
+  - first:
+      213: 2977213607214758064
+    second: Harvey_178
+  - first:
+      213: 6871773469644599798
+    second: Harvey_179
+  - first:
+      213: 4652781615438993580
+    second: Harvey_180
+  - first:
+      213: 706934440164712453
+    second: Harvey_181
+  - first:
+      213: -6498075012449830922
+    second: Harvey_182
+  - first:
+      213: 6123803660675211540
+    second: Harvey_183
+  - first:
+      213: 1283099829710335264
+    second: Harvey_184
+  - first:
+      213: -8043599021839016758
+    second: Harvey_185
+  - first:
+      213: 4608247699053769007
+    second: Harvey_186
+  - first:
+      213: -4543365015873017952
+    second: Harvey_187
+  - first:
+      213: -3070799530424070542
+    second: Harvey_188
+  - first:
+      213: -1879709932403398710
+    second: Harvey_189
+  - first:
+      213: -1944312854624185047
+    second: Harvey_190
+  - first:
+      213: -3298118885963308330
+    second: Harvey_191
+  - first:
+      213: 8933183231222450797
+    second: Harvey_192
+  - first:
+      213: -6086186164230835252
+    second: Harvey_193
+  - first:
+      213: -5065948047044272092
+    second: Harvey_194
+  - first:
+      213: 5590045510009072848
+    second: Harvey_195
+  - first:
+      213: -3645463542727547679
+    second: Harvey_196
+  - first:
+      213: 556373887265674794
+    second: Harvey_197
+  - first:
+      213: 873272135888590914
+    second: Harvey_198
+  - first:
+      213: 9125967675792571832
+    second: Harvey_199
+  - first:
+      213: 2305095439299884793
+    second: Harvey_200
+  - first:
+      213: 6330504233776586481
+    second: Harvey_201
+  - first:
+      213: 6193839399596154796
+    second: Harvey_202
+  - first:
+      213: 8825912564987809287
+    second: Harvey_203
+  - first:
+      213: -6482424638223221383
+    second: Harvey_204
+  - first:
+      213: -8823027114599079030
+    second: Harvey_205
+  - first:
+      213: -4090266920267684255
+    second: Harvey_206
+  - first:
+      213: 8015403640946230850
+    second: Harvey_207
+  - first:
+      213: -6868874915720198855
+    second: Harvey_208
+  - first:
+      213: -7874682756987302589
+    second: Harvey_209
+  - first:
+      213: 4684785452854763248
+    second: Harvey_210
+  - first:
+      213: -8947042528735520144
+    second: Harvey_211
+  - first:
+      213: -7722638830019787655
+    second: Harvey_212
+  - first:
+      213: -124611878373212211
+    second: Harvey_213
+  - first:
+      213: -2269266604053026191
+    second: Harvey_214
+  - first:
+      213: 7866772083826451098
+    second: Harvey_215
+  - first:
+      213: 6906304122875676370
+    second: Harvey_216
+  - first:
+      213: -6787680905133829099
+    second: Harvey_217
+  - first:
+      213: -8470962729109528968
+    second: Harvey_218
+  - first:
+      213: 4510625537487438079
+    second: Harvey_219
+  - first:
+      213: 5839781252041095975
+    second: Harvey_220
+  - first:
+      213: -3439601075683648493
+    second: Harvey_221
+  - first:
+      213: 3815127985995266253
+    second: Harvey_222
+  - first:
+      213: -1186583707632995582
+    second: Harvey_223
+  - first:
+      213: -543822869355802612
+    second: Harvey_224
+  - first:
+      213: -5562133051765941403
+    second: Harvey_225
+  - first:
+      213: -354816786188943573
+    second: Harvey_226
+  - first:
+      213: -6173595903895548780
+    second: Harvey_227
+  - first:
+      213: -7348490561963531251
+    second: Harvey_228
+  - first:
+      213: 6063760952160721178
+    second: Harvey_229
+  - first:
+      213: 4763879416908143591
+    second: Harvey_230
+  - first:
+      213: 4601188910962028452
+    second: Harvey_231
+  - first:
+      213: 7503791746089299707
+    second: Harvey_232
+  - first:
+      213: 7044945543466561915
+    second: Harvey_233
+  - first:
+      213: -1308829974324775899
+    second: Harvey_234
+  - first:
+      213: -8283884175945192272
+    second: Harvey_235
+  - first:
+      213: -7239657799539593917
+    second: Harvey_236
+  - first:
+      213: -6679113288192196468
+    second: Harvey_237
+  - first:
+      213: -4910762028413187378
+    second: Harvey_238
+  - first:
+      213: -7841616298525589165
+    second: Harvey_239
+  - first:
+      213: -2394587173448486368
+    second: Harvey_240
+  - first:
+      213: -8362949832996360388
+    second: Harvey_241
+  - first:
+      213: -8489554311470739236
+    second: Harvey_242
+  - first:
+      213: -393944309519952258
+    second: Harvey_243
+  - first:
+      213: 7123634034793323428
+    second: Harvey_244
+  - first:
+      213: 9030691344818497108
+    second: Harvey_245
+  - first:
+      213: -6021671796619715597
+    second: Harvey_246
+  - first:
+      213: -6305566878797688487
+    second: Harvey_247
+  - first:
+      213: -8232790058579237559
+    second: Harvey_248
+  - first:
+      213: 4561316955478472005
+    second: Harvey_249
+  - first:
+      213: -6780239631073387408
+    second: Harvey_250
+  - first:
+      213: 2734688005657966779
+    second: Harvey_251
+  - first:
+      213: 6296953090040197214
+    second: Harvey_252
+  - first:
+      213: 7269885761972492681
+    second: Harvey_253
+  - first:
+      213: -5504479613114365758
+    second: Harvey_254
+  - first:
+      213: -693493431785292449
+    second: Harvey_255
+  - first:
+      213: -1247629806612878092
+    second: Harvey_256
+  - first:
+      213: 7009618766172325198
+    second: Harvey_257
+  - first:
+      213: 3098518963087250296
+    second: Harvey_258
+  - first:
+      213: -7918420895125319857
+    second: Harvey_259
+  - first:
+      213: 8611498288482926896
+    second: Harvey_260
+  - first:
+      213: 4123339106566058637
+    second: Harvey_261
+  - first:
+      213: -8915667715370330407
+    second: Harvey_262
+  - first:
+      213: 3972921760594559935
+    second: Harvey_263
+  - first:
+      213: 864941058915844535
+    second: Harvey_264
+  - first:
+      213: 8414112309822487905
+    second: Harvey_265
+  - first:
+      213: 4944687735166986613
+    second: Harvey_266
+  - first:
+      213: -3951742937441617109
+    second: Harvey_267
+  - first:
+      213: 4217720501882286711
+    second: Harvey_268
+  - first:
+      213: 7426932668450400212
+    second: Harvey_269
+  - first:
+      213: -5500853972048636689
+    second: Harvey_270
+  - first:
+      213: 8546906549940377732
+    second: Harvey_271
+  - first:
+      213: -1217075830013395138
+    second: Harvey_272
+  - first:
+      213: 4229446194827834524
+    second: Harvey_273
+  - first:
+      213: -7590780165104198405
+    second: Harvey_274
+  - first:
+      213: -2878179328340944932
+    second: Harvey_275
+  - first:
+      213: -2772383046997526661
+    second: Harvey_276
+  - first:
+      213: 3855523508639030152
+    second: Harvey_277
+  - first:
+      213: -7476393063797029947
+    second: Harvey_278
+  - first:
+      213: 2236028432675281215
+    second: Harvey_279
+  - first:
+      213: -6563713936980539536
+    second: Harvey_280
+  - first:
+      213: 5530266685335669616
+    second: Harvey_281
+  - first:
+      213: 8268219421380755568
+    second: Harvey_282
+  - first:
+      213: 1773833006563249591
+    second: Harvey_283
+  - first:
+      213: -2675545097708890378
+    second: Harvey_284
+  - first:
+      213: 6952537170869787285
+    second: Harvey_285
+  - first:
+      213: 8475585234018054480
+    second: Harvey_286
+  - first:
+      213: 4709205768305526961
+    second: Harvey_287
+  - first:
+      213: -5174777452315291526
+    second: Harvey_288
+  - first:
+      213: -6696160691443395419
+    second: Harvey_289
+  - first:
+      213: -7918771125796489532
+    second: Harvey_290
+  - first:
+      213: -2028464994847114635
+    second: Harvey_291
+  - first:
+      213: -7426964084860744164
+    second: Harvey_292
+  - first:
+      213: -6950261659291524378
+    second: Harvey_293
+  - first:
+      213: -1556684498524327827
+    second: Harvey_294
+  - first:
+      213: 5580283933819986022
+    second: Harvey_295
+  - first:
+      213: -6787745790876291665
+    second: Harvey_296
+  - first:
+      213: -2742371259590296771
+    second: Harvey_297
+  - first:
+      213: -7226057858978666605
+    second: Harvey_298
+  - first:
+      213: 9011509853030906254
+    second: Harvey_299
+  - first:
+      213: -8162918508525589619
+    second: Harvey_300
+  - first:
+      213: 1192816990258468066
+    second: Harvey_301
+  - first:
+      213: -6769656722778433025
+    second: Harvey_302
+  - first:
+      213: -3088631600103961134
+    second: Harvey_303
+  - first:
+      213: -9170279334087052652
+    second: Harvey_304
+  - first:
+      213: 8386313876428170383
+    second: Harvey_305
+  - first:
+      213: -3635839413235977778
+    second: Harvey_306
+  - first:
+      213: -8800074565765334957
+    second: Harvey_307
+  - first:
+      213: -4443729337550864672
+    second: Harvey_308
+  - first:
+      213: -2568544990952656085
+    second: Harvey_309
+  - first:
+      213: 1810265872687408267
+    second: Harvey_310
+  - first:
+      213: 1164806042682381130
+    second: Harvey_311
+  - first:
+      213: -3793264455208959698
+    second: Harvey_312
+  - first:
+      213: 8625156772176234250
+    second: Harvey_313
+  - first:
+      213: -1406359227181721828
+    second: Harvey_314
+  - first:
+      213: -153387277767059835
+    second: Harvey_315
+  - first:
+      213: -6356005587270012995
+    second: Harvey_316
+  - first:
+      213: 7376057265532416005
+    second: Harvey_317
+  - first:
+      213: 3394969611828494676
+    second: Harvey_318
+  - first:
+      213: 4748341001915484007
+    second: Harvey_319
+  - first:
+      213: 8465695721748786505
+    second: Harvey_320
+  - first:
+      213: -6920197476433322953
+    second: Harvey_321
+  - first:
+      213: -550142344336260708
+    second: Harvey_322
+  - first:
+      213: 2621801204200470291
+    second: Harvey_323
+  - first:
+      213: 1141141191039308592
+    second: Harvey_324
+  - first:
+      213: -6432954794059793290
+    second: Harvey_325
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harvey_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1248
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74dc301e50daef20800000000000000
+      internalID: 3452801166750831739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1248
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbb7fbedb5d80680800000000000000
+      internalID: -8788539661129106468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1248
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fdb8866235181d0800000000000000
+      internalID: -3350305223359078546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d6901e75b65a20800000000000000
+      internalID: 3050825350638916687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1184
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca28099d37aabe0800000000000000
+      internalID: -1465231350486094767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1184
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2851ab192ee10460800000000000000
+      internalID: 7206302739094132782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1184
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551261f86fd73d370800000000000000
+      internalID: 8346153032363680085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1184
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6ef809e7b139f90800000000000000
+      internalID: -6948179569697364238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1184
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bd0875d53909a50800000000000000
+      internalID: 6525877889169152892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1184
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4406bfd0178a3e0800000000000000
+      internalID: -2042258126146616071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1184
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca418ce59be7354e0800000000000000
+      internalID: -1994110875370777428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1184
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba933185de46ad250800000000000000
+      internalID: 5970195226580695467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_12
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1184
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f009ac9b2a73d0800000000000000
+      internalID: -3208203832697753415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1184
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a4462c30022dd0800000000000000
+      internalID: -2512445383779244627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1184
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34df619645e3e0aa0800000000000000
+      internalID: -6192943905326564029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1184
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbf3f76d1d7bf2c0800000000000000
+      internalID: -4396783045945590851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1184
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6763e5b826aa21d0800000000000000
+      internalID: -3374702276980283539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1184
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef74939839ec1df50800000000000000
+      internalID: 6904526836793427966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1120
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8204d1ec70581a00800000000000000
+      internalID: 727419837115269774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1122
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a471eac3086a37780800000000000000
+      internalID: -8686416186563487926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1120
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b444caea9bbb1790800000000000000
+      internalID: -7558241275573156685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1120
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8139fd214841c190800000000000000
+      internalID: -7943988822923464310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1122
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a8f6d8fa96c6e0800000000000000
+      internalID: -1817595006048230457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1120
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e9484b5771cb100800000000000000
+      internalID: 125000683966733937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1120
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e936089030f817970800000000000000
+      internalID: 8750932794164667294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1056
+        width: 32
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61a66843b618e340800000000000000
+      internalID: 4893185954407686510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1122
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83cd44cd6f8649d0800000000000000
+      internalID: -2790385217501805686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1120
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df5c4347b558160800000000000000
+      internalID: 7027123348241251693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1120
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9644cbbea6cd6a0800000000000000
+      internalID: -6423141407828710918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_29
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1122
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130efb294a98858a0800000000000000
+      internalID: -6316147137457430479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_30
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1120
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69f745c8e26eb200800000000000000
+      internalID: 197704185532643695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1120
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea2ba94bb2f7e630800000000000000
+      internalID: 3956397683877030635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1082
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed298c185319885e0800000000000000
+      internalID: -1907114783194705186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1090
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2477ffa76d5a389b0800000000000000
+      internalID: -5079033614138640574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29352b67169df9450800000000000000
+      internalID: 6097831433109394322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_35
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1082
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d7009ba205efc0800000000000000
+      internalID: -3466361402312634061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1090
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512c823fede2f8930800000000000000
+      internalID: 4147585316928668181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1064
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416644c5b1fd4080800000000000000
+      internalID: -9201432700663733938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1056
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf92b3d7d916ae780800000000000000
+      internalID: -8652996405000197636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1074
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36fceb5edb4cb300800000000000000
+      internalID: 269173496132466237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 994
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f41619efce5a1470800000000000000
+      internalID: 8366103504855897331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 994
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5a2f0bb6ad03550800000000000000
+      internalID: 6138646448171034109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 994
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45319cefcc2b82c70800000000000000
+      internalID: 8946597253289153364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 994
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b642feb7971237d0800000000000000
+      internalID: -2940261666208463182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 994
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a51419a9921e9c10800000000000000
+      internalID: 2062106130558227877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 994
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccea919d01812360800000000000000
+      internalID: 7143132379263724737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 994
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0ad670b98b41c0800000000000000
+      internalID: -4518366410134909344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 994
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ccc4fa1a2a71c50800000000000000
+      internalID: 6635951391268195399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 994
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eff0777d6d6e6c0800000000000000
+      internalID: -4114364988652519872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 994
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a4121874b90db0800000000000000
+      internalID: -4825127097958358449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_50
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 994
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1268242073042be60800000000000000
+      internalID: 7976508495031862817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 994
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0407cf15ae645580800000000000000
+      internalID: -8839318513139645429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 930
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063b98a7f8c170c0800000000000000
+      internalID: -4579658380047862260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 930
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4eee25f0ac76f0800000000000000
+      internalID: -685496068352356884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 930
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27da06e8f03b160800000000000000
+      internalID: 7039987746691969723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 930
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ede67e25031aa0800000000000000
+      internalID: -6191599365582363346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 930
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2232626c2ba7531c0800000000000000
+      internalID: -4524575342376639710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 930
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8023c7b71c24c8330800000000000000
+      internalID: 3714417191441674760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_58
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 930
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd0604f447befb30800000000000000
+      internalID: 4323094199101951412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_59
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 930
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140215999ed17b410800000000000000
+      internalID: 1492694690633424961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 930
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b6914b54ecf4320800000000000000
+      internalID: 2544479113257249665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_61
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 930
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a245b9ddc39e8c0800000000000000
+      internalID: -3969574674058958290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_62
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 930
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156d41c96e6c3550800000000000000
+      internalID: 6141905392320210199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_63
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 930
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500826903812b1a0800000000000000
+      internalID: -6795342290791956397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 384
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd98fbd658baa580800000000000000
+      internalID: -8815030637427122696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_65
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 864
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31aa13c169da250800000000000000
+      internalID: 5957582929917514671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 384
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97486a0506c637ac0800000000000000
+      internalID: -3858621294800632711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 800
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a96c8ebeba4fe0800000000000000
+      internalID: -1203940224759388303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_68
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e689e74682937f0800000000000000
+      internalID: -632429860583084455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_69
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a021b098ca5c00800000000000000
+      internalID: 890244400131647080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_70
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8860856a6559dca20800000000000000
+      internalID: 3084285519209170568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_71
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe4dfe5bb582bbc0800000000000000
+      internalID: -3768802898356646151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_72
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f9a8a78e4eeab0800000000000000
+      internalID: -4976954193640556286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_73
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f211d7d3b4072c80800000000000000
+      internalID: -8347698213841464587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_74
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280fc0f05034f99c0800000000000000
+      internalID: -3918339461782638462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_75
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 806
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45892d7e1b8d78c80800000000000000
+      internalID: -8320443527933552556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_76
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 806
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88787079099e6f000800000000000000
+      internalID: 69499651489236872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_77
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 808
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a120349ee3489720800000000000000
+      internalID: 2853105055906668965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_78
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 806
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1889eef327f82600800000000000000
+      internalID: 443876297268627487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_79
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 806
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef0cb437c2ab5c30800000000000000
+      internalID: 4349248841623277537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 736
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151daa2f2d9537fc0800000000000000
+      internalID: -3498353722987458223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 738
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cce68bc4700cfa0800000000000000
+      internalID: -5782613895450538880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_82
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 736
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d33d94d2e2c0c0e0800000000000000
+      internalID: -2251585534199778345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_83
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 736
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b231ee1fa0279480800000000000000
+      internalID: -8892603002710314319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_84
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 738
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c406854d483a71b60800000000000000
+      internalID: 7716816277416206412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 736
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7778c4315f93e50800000000000000
+      internalID: 6789727376474863607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2110be9af1a3ce0800000000000000
+      internalID: -1424791517456690462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_87
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 736
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e83ddf82c75fc860800000000000000
+      internalID: 7552351593272522980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_88
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 738
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85b172a2e1365f0800000000000000
+      internalID: -764734345329288980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_89
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 736
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838590d37d29f830800000000000000
+      internalID: 4105362510768866181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_90
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 736
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b55faefc9f3b8250800000000000000
+      internalID: 5947917676393223608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_91
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 738
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6716ec4a4b166f8f0800000000000000
+      internalID: -507110479545605770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_92
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 736
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425834e4c2b3ccd30800000000000000
+      internalID: 4452999193040225572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 736
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181208d54412f3fa0800000000000000
+      internalID: -5818895616029220479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_94
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3803b92ba2c3540800000000000000
+      internalID: 4988909433815860185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_95
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1817a0bdc42fdc110800000000000000
+      internalID: 1282947880776790401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_96
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548eb3bd94176b70800000000000000
+      internalID: 8892098656824362068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_97
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 744
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8566402f46533110800000000000000
+      internalID: 1239429220300907918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_98
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 744
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6db73868bdebcf0800000000000000
+      internalID: -234508759798655268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_99
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 744
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda45cd88687f830800000000000000
+      internalID: 4104897507741707701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_100
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c1bfc3260fa2740800000000000000
+      internalID: 5128175430435282071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_101
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b42f94d9de78b600800000000000000
+      internalID: 484276433982530739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_102
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 744
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483fd29faec56b450800000000000000
+      internalID: 6104168509219926916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_103
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 736
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c6238bf985dc20800000000000000
+      internalID: 3230640021038350513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_104
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 736
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c870402493ecf9ad0800000000000000
+      internalID: -2693207306828249204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_105
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 736
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1075c956331fd500800000000000000
+      internalID: 423078014151389212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bc4d7a5b165d110800000000000000
+      internalID: 1285040701516860187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_107
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51323b40b45b59f0800000000000000
+      internalID: -478695819232267937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_108
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 672
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fe1f835f45536d0800000000000000
+      internalID: -3011407363628208376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_109
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 672
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea79aeeb35adbcb0800000000000000
+      internalID: -4846535947155047703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_110
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 672
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9633868d222d6d0800000000000000
+      internalID: -2967270891627255309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 672
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec7c48e04069d00800000000000000
+      internalID: 978974429403401894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_112
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db08af6dcd18560800000000000000
+      internalID: 7314370085710249362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_113
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e88dda61a63d40800000000000000
+      internalID: 5563811870018169314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_114
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9397b68893f685bc0800000000000000
+      internalID: -3794160393167079111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_115
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd7a0b8e61e8180800000000000000
+      internalID: -9111319807471920334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_116
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eb8b00f8fb9f5b0800000000000000
+      internalID: -5334021662730305967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_117
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f13bb537efba770800000000000000
+      internalID: 8623265682944106379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 384
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d6892c8f4b36a10800000000000000
+      internalID: 1901562448190139655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_119
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f571101ea6f62d3f0800000000000000
+      internalID: -877516472551663777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_120
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e44c1f30cb0a00800000000000000
+      internalID: 723883542412845595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_121
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 672
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3bb1b1ff54660b0800000000000000
+      internalID: -5735820113435970603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_122
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 672
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be66db50925aa70800000000000000
+      internalID: 8837514948413680392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_123
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 672
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3870d23409419d80800000000000000
+      internalID: -8245729160357447618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_124
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 672
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098cc8b20f4c15d70800000000000000
+      internalID: 9030215263656396944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_125
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab769bfb58befab60800000000000000
+      internalID: 7759679642662430650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_126
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5807ad8873628b0800000000000000
+      internalID: -5177389660695919110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_127
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901eb6822706a7fd0800000000000000
+      internalID: -2343454612672225015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_128
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ccb1760e17ec30800000000000000
+      internalID: 4388509374922670651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_129
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc04a725824f730800000000000000
+      internalID: 4031891901106932967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_130
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 672
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c25ce826295f010800000000000000
+      internalID: 1222043825900694590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_131
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 672
+        width: 384
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ea2efc5a39526e0800000000000000
+      internalID: -1862920530481205673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1f9716905f0a370800000000000000
+      internalID: 8331928731274310104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_133
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a802fc1e7a9700c00800000000000000
+      internalID: 864824890410082442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_134
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1161b292bcfbe2ad0800000000000000
+      internalID: -2725029845222615535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_135
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfa06b4a94125a50800000000000000
+      internalID: 6508287064425934771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_136
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9b2e0070be4990800000000000000
+      internalID: -7399783142402582007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_137
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a7f2ea50adbd300800000000000000
+      internalID: 278055519945456258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_138
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f373dad682522d0800000000000000
+      internalID: -3304190300083765415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_139
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f1cbda217032cf0800000000000000
+      internalID: -278370975161245854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_140
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaa7b89b3c19a670800000000000000
+      internalID: 8550396409830419170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_141
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a0b699f8a2712a0800000000000000
+      internalID: -6766893118858261978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 320
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be427e2bdf9445360800000000000000
+      internalID: 7157427061775607019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_143
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff747267a0e76c00800000000000000
+      internalID: 893930060572295162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_144
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a69d98058ce280800000000000000
+      internalID: -9012682482225075968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_145
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bff66068a368d510800000000000000
+      internalID: 1574117644589006769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_146
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc79544d4773a7ef0800000000000000
+      internalID: -109714266000091188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_147
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dde0ac87826faa80800000000000000
+      internalID: -8453429641231667759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_148
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a1d7a54e7da19f0800000000000000
+      internalID: -496847433100354920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_149
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df9ae051628ec600800000000000000
+      internalID: 490472763910954968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_150
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625581175a82e310800000000000000
+      internalID: 1432859738017976933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569b656d0e7da3470800000000000000
+      internalID: 8375243817717512549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_152
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 608
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0773ca2fba502ba0800000000000000
+      internalID: -6115788516866427121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_153
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 608
+        width: 320
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb3856a2377781b0800000000000000
+      internalID: -5654419747717497861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_154
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 612
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1166cd2a5102e0490800000000000000
+      internalID: -7778244229123512815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_155
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 612
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e04303405f39850800000000000000
+      internalID: 6382714495251517080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_156
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84da6f4474f8a180800000000000000
+      internalID: -9103757866343672693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_157
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2f1aaba3610270800000000000000
+      internalID: 8214956784245222757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_158
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce6ef766d2bffff0800000000000000
+      internalID: -84841039237437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_159
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdca28ec270b24360800000000000000
+      internalID: 7152473165355199711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_160
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e54c09458f66f00800000000000000
+      internalID: 1109847400283135570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_161
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca5afe155ad4bb0800000000000000
+      internalID: -4950118644078760830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_162
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decdb61d7504a0ae0800000000000000
+      internalID: -1582381573147468563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_163
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044804ea31cbf0c00800000000000000
+      internalID: 869120045819659328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_164
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6930f15a92e52d0f0800000000000000
+      internalID: -1093708226540665962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7756a2de8e8bae0c0800000000000000
+      internalID: -4545617563326192265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_166
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc5e9f47b722400800000000000000
+      internalID: 297936267698883774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_167
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2dcd0aa84baaf0800000000000000
+      internalID: -384133447996854293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_168
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1040f8068777790800000000000000
+      internalID: -7532419495642267139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_169
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b55aca99220ee90800000000000000
+      internalID: -6998555777511892116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_170
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 448
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86087607df5ada540800000000000000
+      internalID: 5020851667519111272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_171
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c74b5ba33de1de0800000000000000
+      internalID: -1360417788309242802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_172
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4628aecc6728ef480800000000000000
+      internalID: -8863503569862884764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_173
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a4f10e064cfa60800000000000000
+      internalID: 7709113688127743183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_174
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a6be4a89d666aa0800000000000000
+      internalID: -6168122137267967456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_175
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7045881908c7c0550800000000000000
+      internalID: 6128410084583691271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_176
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3928ec7a9ee8dd00800000000000000
+      internalID: 997809664750528831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_177
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c69018bd414910800000000000000
+      internalID: 1819821177382028735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_178
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8be767000315920800000000000000
+      internalID: 2977213607214758064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_179
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1be1bff817d5f50800000000000000
+      internalID: 6871773469644599798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_180
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca895bd4a30029040800000000000000
+      internalID: 4652781615438993580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_181
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500e189b0298fc900800000000000000
+      internalID: 706934440164712453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_182
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7f517543332d5a0800000000000000
+      internalID: -6498075012449830922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_183
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 544
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41168ccebfe1cf450800000000000000
+      internalID: 6123803660675211540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_184
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 544
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02daf393f7c7ec110800000000000000
+      internalID: 1283099829710335264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_185
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 544
+        width: 448
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1b937e456f5090800000000000000
+      internalID: -8043599021839016758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_186
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217c13edd8c3ff30800000000000000
+      internalID: 4608247699053769007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_187
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7a3fff699b2f0c0800000000000000
+      internalID: -4543365015873017952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_188
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e03acc8145265d0800000000000000
+      internalID: -3070799530424070542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_189
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7625e86cde9e5e0800000000000000
+      internalID: -1879709932403398710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_190
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92556e792c96405e0800000000000000
+      internalID: -1944312854624185047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_191
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2662fe85aba32d0800000000000000
+      internalID: -3298118885963308330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_192
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a8d7a91da09fb70800000000000000
+      internalID: 8933183231222450797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_193
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3bf1cfde5898ba0800000000000000
+      internalID: -6086186164230835252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_194
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420a75d771322b9b0800000000000000
+      internalID: -5065948047044272092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_195
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 480
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcab5626c4d39d40800000000000000
+      internalID: 5590045510009072848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_196
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4661ee836b86dc0800000000000000
+      internalID: -3645463542727547679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_197
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2616c84a13a8b700800000000000000
+      internalID: 556373887265674794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_198
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248d2eb716c7e1c00800000000000000
+      internalID: 873272135888590914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_199
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd305bef33f5ae70800000000000000
+      internalID: 9125967675792571832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_200
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 448
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b7d0d6185dff10800000000000000
+      internalID: 2305095439299884793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_201
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe1c576f087ad750800000000000000
+      internalID: 6330504233776586481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_202
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf5fb81e10f4f550800000000000000
+      internalID: 6193839399596154796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_203
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e41c657b0fb7a70800000000000000
+      internalID: 8825912564987809287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_204
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df67b032dc906a0800000000000000
+      internalID: -6482424638223221383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_205
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83aeaee59f4e8580800000000000000
+      internalID: -8823027114599079030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_206
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e9ec38e37c37c0800000000000000
+      internalID: -4090266920267684255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_207
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24609fdd42f6c3f60800000000000000
+      internalID: 8015403640946230850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_208
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93508e138aadca0a0800000000000000
+      internalID: -6868874915720198855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_209
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc0ee11c187b290800000000000000
+      internalID: -7874682756987302589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_210
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 480
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe535e5c83b30140800000000000000
+      internalID: 4684785452854763248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_211
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a186c3938b5d380800000000000000
+      internalID: -8947042528735520144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_212
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 480
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974480086eca3d490800000000000000
+      internalID: -7722638830019787655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_213
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf35c6282a454ef0800000000000000
+      internalID: -124611878373212211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_214
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 480
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a23c4fb02f180e0800000000000000
+      internalID: -2269266604053026191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_215
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 480
+        width: 448
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a926f61c7836c2d60800000000000000
+      internalID: 7866772083826451098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_216
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d602d2320f18df50800000000000000
+      internalID: 6906304122875676370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_217
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 416
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514dbc0fd205dc1a0800000000000000
+      internalID: -6787680905133829099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_218
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 416
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e5ad96748117a80800000000000000
+      internalID: -8470962729109528968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_219
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 416
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff08ebc2706f89e30800000000000000
+      internalID: 4510625537487438079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_220
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 416
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b35e5bb121b0150800000000000000
+      internalID: 5839781252041095975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_221
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 416
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c13d2ab051440d0800000000000000
+      internalID: -3439601075683648493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc836e990be02f430800000000000000
+      internalID: 3815127985995266253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_223
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 416
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203f44a9768688fe0800000000000000
+      internalID: -1186583707632995582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_224
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 416
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00505b4bf3f378f0800000000000000
+      internalID: -543822869355802612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_225
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 416
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b180875755fc2b0800000000000000
+      internalID: -5562133051765941403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_226
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fbcda4300731bf0800000000000000
+      internalID: -354816786188943573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_227
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ccf790c3bf25aa0800000000000000
+      internalID: -6173595903895548780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_228
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 416
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d046ad294cae40a90800000000000000
+      internalID: -7348490561963531251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_229
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a199c64757ec62450800000000000000
+      internalID: 6063760952160721178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_230
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 352
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebda9de613bc1240800000000000000
+      internalID: 4763879416908143591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_231
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 352
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afab56bfe4badf30800000000000000
+      internalID: 4601188910962028452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_232
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 352
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe292616d2d22860800000000000000
+      internalID: 7503791746089299707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_233
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 352
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71bb4465aca4c160800000000000000
+      internalID: 7044945543466561915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_234
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 352
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524fcf4a21a16dde0800000000000000
+      internalID: -1308829974324775899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_235
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 352
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcae4c5b3bb90d80800000000000000
+      internalID: -8283884175945192272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_236
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6e03b691978b90800000000000000
+      internalID: -7239657799539593917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_237
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 352
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8086b21ad50f43a0800000000000000
+      internalID: -6679113288192196468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_238
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 352
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca84f714f779dbb0800000000000000
+      internalID: -4910762028413187378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_239
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 352
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351087de58bfc2390800000000000000
+      internalID: -7841616298525589165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_240
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02275ee17a7b4ced0800000000000000
+      internalID: -2394587173448486368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_241
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 352
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fe6d98f65d0fb80800000000000000
+      internalID: -8362949832996360388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_242
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 352
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd09663555b0f2a80800000000000000
+      internalID: -8489554311470739236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_243
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76d6c9dcbd688af0800000000000000
+      internalID: -393944309519952258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_244
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab1db9796b3cd260800000000000000
+      internalID: 7123634034793323428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_245
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 288
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456e9147ee5735d70800000000000000
+      internalID: 9030691344818497108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_246
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 288
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5e78b769be6ca0800000000000000
+      internalID: -6021671796619715597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_247
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9519bc105502e78a0800000000000000
+      internalID: -6305566878797688487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_248
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 288
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94564089f014fbd80800000000000000
+      internalID: -8232790058579237559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_249
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 288
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b247aa9d0d4f30800000000000000
+      internalID: 4561316955478472005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_250
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c58d19affb7e1a0800000000000000
+      internalID: -6780239631073387408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_251
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8b3cc804093f520800000000000000
+      internalID: 2734688005657966779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_252
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 288
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50f4230975436750800000000000000
+      internalID: 6296953090040197214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_253
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 288
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9895a004592d3e460800000000000000
+      internalID: 7269885761972492681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_254
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c840f2b4f82c93b0800000000000000
+      internalID: -5504479613114365758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_255
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dfe58e5673066f0800000000000000
+      internalID: -693493431785292449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_256
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 288
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc66a51d478faee0800000000000000
+      internalID: -1247629806612878092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_257
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 192
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e450d98112b274160800000000000000
+      internalID: 7009618766172325198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_258
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 300
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87390ac8496200b20800000000000000
+      internalID: 3098518963087250296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_259
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 302
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f4604462e1c1290800000000000000
+      internalID: -7918420895125319857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_260
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 300
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031c8e45110328770800000000000000
+      internalID: 8611498288482926896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_261
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 296
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82b85f221b093930800000000000000
+      internalID: 4123339106566058637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_262
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 304
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6dee9337f254480800000000000000
+      internalID: -8915667715370330407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_263
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 300
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb388a4ba47a22730800000000000000
+      internalID: 3972921760594559935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_264
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 298
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b144587f43e00c00800000000000000
+      internalID: 864941058915844535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_265
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 300
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df53fd09ee4c470800000000000000
+      internalID: 8414112309822487905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_266
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 302
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579ebdb0c4f0f9440800000000000000
+      internalID: 4944687735166986613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_267
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 300
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b32225cb69829c0800000000000000
+      internalID: -3951742937441617109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_268
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 300
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727394337a588a30800000000000000
+      internalID: 4217720501882286711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_269
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7eab199e3c11760800000000000000
+      internalID: 7426932668450400212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_270
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe49eba057a09a3b0800000000000000
+      internalID: -5500853972048636689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_271
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d7a54936bc9670800000000000000
+      internalID: 8546906549940377732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_272
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f765f1bf31c1fe0800000000000000
+      internalID: -1217075830013395138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_273
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 298
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c943757d7e202ba30800000000000000
+      internalID: 4229446194827834524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_274
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 296
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc12e258a128a690800000000000000
+      internalID: -7590780165104198405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_275
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79d5e6627ae08d0800000000000000
+      internalID: -2878179328340944932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_276
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 292
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77b566be448689d0800000000000000
+      internalID: -2772383046997526661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_277
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 292
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bd8932432918530800000000000000
+      internalID: 3855523508639030152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_278
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c30f2fbe148e3890800000000000000
+      internalID: -7476393063797029947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_279
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 288
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3998453308f70f10800000000000000
+      internalID: 2236028432675281215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_280
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0778efa43f009e4a0800000000000000
+      internalID: -6563713936980539536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_281
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 294
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0c9cef347fbc40800000000000000
+      internalID: 5530266685335669616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_282
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 292
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c260c1cd9eb270800000000000000
+      internalID: 8268219421380755568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_283
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdc017a8bbed9810800000000000000
+      internalID: 1773833006563249591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_284
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f61686c8ed8edad0800000000000000
+      internalID: -2675545097708890378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_285
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a946588bf5c7060800000000000000
+      internalID: 6952537170869787285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_286
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 224
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05131316dd35f9570800000000000000
+      internalID: 8475585234018054480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_287
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 224
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8421222b57a5140800000000000000
+      internalID: 4709205768305526961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_288
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 224
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70db03035f7f28b0800000000000000
+      internalID: -5174777452315291526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_289
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4159334557213a0800000000000000
+      internalID: -6696160691443395419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_290
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 224
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b745dd9fda1290800000000000000
+      internalID: -7918771125796489532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_291
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 224
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ab2de95d179d3e0800000000000000
+      internalID: -2028464994847114635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_292
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 224
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e8a4ab38f1ee890800000000000000
+      internalID: -7426964084860744164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_293
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 224
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e269ed48d5bb8f90800000000000000
+      internalID: -6950261659291524378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_294
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60b91e32bb856ae0800000000000000
+      internalID: -1556684498524327827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_295
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e8251ca6217d40800000000000000
+      internalID: 5580283933819986022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_296
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad6a2d8a251dc1a0800000000000000
+      internalID: -6787745790876291665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_297
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b31ed7ed321f9d0800000000000000
+      internalID: -2742371259590296771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_298
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397282d99a2e7bb90800000000000000
+      internalID: -7226057858978666605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_299
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 160
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89f6df57705f0d70800000000000000
+      internalID: 9011509853030906254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_300
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8beed09ddc77be80800000000000000
+      internalID: -8162918508525589619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_301
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4186a9bbcbd8010800000000000000
+      internalID: 1192816990258468066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_302
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9d47be3195d02a0800000000000000
+      internalID: -6769656722778433025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_303
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddc1c98ce9f225d0800000000000000
+      internalID: -3088631600103961134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_304
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b2a8288f9cb080800000000000000
+      internalID: -9170279334087052652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_305
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f842e6bb90c226470800000000000000
+      internalID: 8386313876428170383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_306
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec174b13157ea8dc0800000000000000
+      internalID: -3635839413235977778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_307
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3587b96aecadfd580800000000000000
+      internalID: -8800074565765334957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_308
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee7c4d16b3b452c0800000000000000
+      internalID: -4443729337550864672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_309
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2378a080f1ba5cd0800000000000000
+      internalID: -2568544990952656085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_310
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ab82583b5f1910800000000000000
+      internalID: 1810265872687408267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_311
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43df46ace83a2010800000000000000
+      internalID: 1164806042682381130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_312
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e218728531e9b5bc0800000000000000
+      internalID: -3793264455208959698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_313
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a078e91e266b2b770800000000000000
+      internalID: 8625156772176234250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_314
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c179d3debbb9b7ce0800000000000000
+      internalID: -1406359227181721828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_315
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58651a3651f0fddf0800000000000000
+      internalID: -153387277767059835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_316
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf6f5c089eeac7a0800000000000000
+      internalID: -6356005587270012995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_317
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500bff2c0050d5660800000000000000
+      internalID: 7376057265532416005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_318
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518848efda5d1f20800000000000000
+      internalID: 3394969611828494676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_319
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7674893cbfe75e140800000000000000
+      internalID: 4748341001915484007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_320
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d616fd7613c7570800000000000000
+      internalID: 8465695721748786505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_321
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c13a95f0586ff90800000000000000
+      internalID: -6920197476433322953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_322
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91cfedd3708d58f0800000000000000
+      internalID: -550142344336260708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_323
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 32
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3177f08ed42826420800000000000000
+      internalID: 2621801204200470291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_324
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d6720ed526df00800000000000000
+      internalID: 1141141191039308592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harvey_325
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 46
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c7be3b2bd89b6a0800000000000000
+      internalID: -6432954794059793290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
