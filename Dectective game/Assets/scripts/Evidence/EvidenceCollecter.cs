@@ -25,11 +25,11 @@ public class EvidenceCollecter : MonoBehaviour
 
         if (firstObject == secondObject)
         {
-            Debug.Log("The objects are identical.");
+            
         }
         else
         {
-            Debug.Log("The objects are different.");
+            
         }
         collectedEvidence.Clear();
     }
