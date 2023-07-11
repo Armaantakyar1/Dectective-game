@@ -16,8 +16,8 @@ public class NPCDialogue : MonoBehaviour
 {
     DialogueState dialogueState = DialogueState.NotEngaged;
     PlayerDialogue playerDialogue;
-    Queue<string> dialogueText = new ();
-    Queue<string> dialogueSpeaker = new ();
+    Queue<string> dialogueText = new Queue<string>();
+    Queue<string> dialogueSpeaker = new Queue<string>();
     [SerializeField] Dialogue dialogue;
     List<GameObject> optionList = new List<GameObject>();
 
@@ -123,7 +123,7 @@ public class NPCDialogue : MonoBehaviour
 
     private void NextLine()
     {
-        if (dialogueText.TryPeek(out string result))
+        if (dialogueText.Peek() != null)
         {
             playerDialogue.DialogueSpeaker.text = dialogueSpeaker.Dequeue();
             playerDialogue.DialogueLine.text = dialogueText.Dequeue();

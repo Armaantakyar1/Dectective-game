@@ -5,10 +5,10 @@ using TMPro;
 
 public class EvidenceCollecter : MonoBehaviour
 {
-    public List<string> collectedEvidence = new List<string>();
+    public List<int> collectedEvidence = new List<int>();
     
 
-    public void AddEvidence(string Evidence)
+    public void AddEvidence(int Evidence)
     {
         collectedEvidence.Add(Evidence);
 
@@ -20,8 +20,8 @@ public class EvidenceCollecter : MonoBehaviour
     }
     private void CompareObjects()
     {
-        string firstObject = collectedEvidence[0];
-        string secondObject = collectedEvidence[1];
+        int firstObject = collectedEvidence[0];
+        int secondObject = collectedEvidence[1];
 
         if (firstObject == secondObject)
         {

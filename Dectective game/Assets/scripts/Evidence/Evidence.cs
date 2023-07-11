@@ -5,7 +5,7 @@ using UnityEngine;
 public class Evidence : MonoBehaviour
 {
     [SerializeField] EvidenceCollecter collecter;
-    [SerializeField] string data;
+    [SerializeField] int data;
 
     private void OnMouseOver()
     {

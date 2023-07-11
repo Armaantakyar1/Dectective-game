@@ -5,8 +5,10 @@ using UnityEngine;
 public class EvidencePicker : MonoBehaviour
 {
     [SerializeField] GameManager manager;
+    [SerializeField] NotebookGrid Grid;
     [SerializeField] bool found;
     [SerializeField] GameObject UI;
+    [SerializeField] GameObject paper;
 
     private void OnMouseOver()
     {
@@ -15,6 +17,7 @@ public class EvidencePicker : MonoBehaviour
             UI.SetActive(true);
             if (found == false)
             {
+                Grid.AddToGrid(paper);
                 manager.FoundEvidence();
                 found = true;
             }
