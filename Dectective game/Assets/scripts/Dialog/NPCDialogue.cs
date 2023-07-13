@@ -130,5 +130,18 @@ public class NPCDialogue : MonoBehaviour
         }
     }
 
- 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.TryGetComponent(out playerDialogue))
+        {
+            dialogueState = DialogueState.Engaged;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        dialogueState = DialogueState.NotEngaged;
+    }
+
+
 }

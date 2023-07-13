@@ -1,16 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
-public class FeedBack : MonoBehaviour
+public class EvidenceUI : MonoBehaviour
 {
     [SerializeField] GameObject background;
-    private void OnTriggerEnter2D(Collider2D collision)
+    [SerializeField]TMP_Text tmpText;
+    public void UiTextEnable (string text)
     {
+        tmpText.text = text;
         background.SetActive(true);
     }
-    private void OnTriggerExit2D(Collider2D collision)
+
+    public void UiTextDisable()
     {
+        tmpText.text = "";
         background.SetActive(false);
     }
 }

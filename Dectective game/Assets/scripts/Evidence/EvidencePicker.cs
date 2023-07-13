@@ -5,23 +5,35 @@ using UnityEngine;
 public class EvidencePicker : MonoBehaviour
 {
     [SerializeField] GameManager manager;
-    [SerializeField] NotebookGrid Grid;
-    [SerializeField] bool found;
-    [SerializeField] GameObject UI;
-    [SerializeField] GameObject paper;
+    [SerializeField] bool found = false;
+    [SerializeField] bool enter = false;
+    [SerializeField] EvidenceUI UI;
+    [SerializeField] string text;
 
-    private void OnMouseOver()
+    private void Update()
     {
-        if (Input.GetMouseButtonDown(0)&& found == false)
+        if (Input.GetKeyDown(KeyCode.Space)&& enter == true)
         {
-            UI.SetActive(true);
+            UI.UiTextEnable(text);
             if (found == false)
             {
-                Grid.AddToGrid(paper);
+
                 manager.FoundEvidence();
                 found = true;
             }
 
         }
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        enter = true;
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        UI.UiTextDisable();
+        enter = false;
+    }
+
 }

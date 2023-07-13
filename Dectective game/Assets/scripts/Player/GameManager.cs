@@ -4,23 +4,19 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField]GameObject notebook;
+    [SerializeField]List<GameObject> notebook = new List<GameObject>();
+    [SerializeField] GameObject itself;
     bool open;
     [SerializeField] int evidenceFound;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
         if (evidenceFound >= 6 && open == false)
         {
-            notebook.SetActive(true);
-            open = true;
+            foreach (GameObject obj in notebook)
+            {
+                obj.SetActive(true);
+            }
+            itself.SetActive(false);
         }
     }
 

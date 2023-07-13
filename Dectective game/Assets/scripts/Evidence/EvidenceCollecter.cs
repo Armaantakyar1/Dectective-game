@@ -5,8 +5,14 @@ using TMPro;
 
 public class EvidenceCollecter : MonoBehaviour
 {
-    public List<int> collectedEvidence = new List<int>();
-    
+    [SerializeField] List<int> collectedEvidence = new List<int>();
+    [SerializeField] List<GameObject> collectedObjects = new List<GameObject>();
+    [SerializeField] List<GameObject> enablingObject = new List<GameObject>();
+
+    public void AddObject(GameObject obj)
+    {
+        collectedObjects.Add(obj);
+    }
 
     public void AddEvidence(int Evidence)
     {
@@ -25,12 +31,26 @@ public class EvidenceCollecter : MonoBehaviour
 
         if (firstObject == secondObject)
         {
-            
+            enableObject(firstObject);
+            disableObj();
+
         }
-        else
-        {
-            
-        }
+
         collectedEvidence.Clear();
+        collectedObjects.Clear();
     }
+
+    void enableObject(int index)
+    {
+        enablingObject[index].SetActive(true);
+    }
+
+    void disableObj()
+    {
+        foreach (GameObject obj in collectedObjects)
+        {
+            obj.SetActive(false);
+        }
+    }
+
 }
