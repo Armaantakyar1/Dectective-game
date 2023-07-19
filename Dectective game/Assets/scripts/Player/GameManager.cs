@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField]List<GameObject> notebook = new List<GameObject>();
+    [SerializeField] GameObject newDialog;
+    [SerializeField] GameObject oldDialog;
     [SerializeField] GameObject itself;
     bool open;
     [SerializeField] int evidenceFound;
@@ -12,10 +13,8 @@ public class GameManager : MonoBehaviour
     {
         if (evidenceFound >= 6 && open == false)
         {
-            foreach (GameObject obj in notebook)
-            {
-                obj.SetActive(true);
-            }
+            newDialog.SetActive(true);
+            oldDialog.SetActive(false);
             itself.SetActive(false);
         }
     }

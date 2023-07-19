@@ -363,9 +363,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\"Emma was arrested and sentenced to several years in prison. She felt
-    very ill. A month later she committed suicide.\" \n\n\"After hearing about Emma's
-    suicide Harvey realized what a mistake he had made. He couldn't continue his
+  m_text: "\"Emma was arrested and sentenced to several years in prison. \" \n\n\"The
+    guilt of his actions weighed heavy on Harvey's heart . He couldn't continue his
     life with Elizabeth because she reminded him of what he had done. He broke up
     with her and devoted his life completely to the law. For the rest of his life
     he regretted what he had done and couldn't forgive himself for it.\""

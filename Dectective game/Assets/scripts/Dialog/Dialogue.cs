@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
 [CreateAssetMenu(fileName = "New Dialogue", menuName = "Custom/Dialogue")]
 public class Dialogue : ScriptableObject
 {
@@ -14,3 +13,4 @@ public class Dialogue : ScriptableObject
     public DialogueOptions[] DialogueOptions { get => dialogueOptions; }
     public DialogueOptions EndDialogue { get => endDialogue; }
 }
+

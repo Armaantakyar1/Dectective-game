@@ -4,22 +4,15 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public enum DialogueState
-{
-    NotEngaged,
-    Engaged,
-    InDialogue,
-    InDialogueOptions,
-    ExitingDialogue
-}
 public class NPCDialogue : MonoBehaviour
 {
-    DialogueState dialogueState = DialogueState.NotEngaged;
+    DialogueState dialogueState = DialogueState.NotInRange;
     PlayerDialogue playerDialogue;
     Queue<string> dialogueText = new Queue<string>();
     Queue<string> dialogueSpeaker = new Queue<string>();
     [SerializeField] Dialogue dialogue;
     List<GameObject> optionList = new List<GameObject>();
+
 
     void Update()
     {
@@ -29,20 +22,25 @@ public class NPCDialogue : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.LeftShift))
         {
-            foreach (var option in optionList)
-            {
-                Destroy(option);
-            }
-            optionList.Clear();
-            ExitDialogue();
+            EndDialogue();
         }
+    }
+
+    private void ClearOptions()
+    {
+        foreach (var option in optionList)
+        {
+            Destroy(option);
+        }
+        optionList.Clear();
     }
 
     void CheckState()
     {
         switch (dialogueState)
         {
-            case DialogueState.Engaged:
+            case DialogueState.InRange:
+                Time.timeScale = 0;
                 playerDialogue.DialogueUI.SetActive(true);
                 StartDialogue(dialogue.IntroLines);
                 break;
@@ -52,7 +50,7 @@ public class NPCDialogue : MonoBehaviour
                 {
                     if (dialogue.DialogueOptions.Length == 0)
                     {
-                        ExitDialogue();
+                        ExitingDialogue();
                     }
                     else
                     {
@@ -67,7 +65,7 @@ public class NPCDialogue : MonoBehaviour
                         }
                         optionList.Add(Instantiate(playerDialogue.DialogueOptionsPrefab, playerDialogue.DialogueOptions.transform));
                         optionList[optionList.Count - 1].GetComponent<TextMeshProUGUI>().text = dialogue.EndDialogue.PlayerLine;
-                        optionList[optionList.Count - 1].GetComponentInChildren<Button>().onClick.AddListener(ExitDialogue);
+                        optionList[optionList.Count - 1].GetComponentInChildren<Button>().onClick.AddListener(ExitingDialogue);
                     }
                     break;
                 }
@@ -77,7 +75,7 @@ public class NPCDialogue : MonoBehaviour
             case DialogueState.ExitingDialogue:
                 if (dialogueText.Count == 0)
                 {
-                    ExitDialogue();
+                    ExitingDialogue();
                     break;
                 }
                 NextLine();
@@ -85,26 +83,41 @@ public class NPCDialogue : MonoBehaviour
         }
     }
 
-    public void EnterDialog()
+    void ExitingDialogue()
     {
-        dialogueState = DialogueState.Engaged;
+        if (dialogue.EndDialogue.NpcDialogue == null || dialogue.EndDialogue.NpcDialogue.Lines.Length == 0)
+        {
+            EndDialogue();
+        }
+        else if (dialogueState != DialogueState.ExitingDialogue)
+        {
+            StartDialogue(dialogue.EndDialogue.NpcDialogue);
+            dialogueState = DialogueState.ExitingDialogue;
+        }
+        else
+        {
+            EndDialogue();
+        }
     }
 
-    void ExitDialogue()
+    private void EndDialogue()
     {
+        ClearOptions();
+        if (dialogueText.Count > 0)
+        {
+            dialogueSpeaker.Clear();
+            dialogueText.Clear();
+        }
         playerDialogue.DialogueText.SetActive(false);
         playerDialogue.DialogueUI.SetActive(false);
         playerDialogue.DialogueOptions.SetActive(false);
-        dialogueState = DialogueState.Engaged;
+        dialogueState = DialogueState.InRange;
+        Time.timeScale = 1;
     }
 
     void SelectOption(DialogueOptions dialogueOptions)
     {
-        foreach (var option in optionList)
-        {
-            Destroy(option);
-        }
-        optionList.Clear();
+        ClearOptions();
         StartDialogue(dialogueOptions.NpcDialogue);
     }
 
@@ -134,14 +147,21 @@ public class NPCDialogue : MonoBehaviour
     {
         if (collision.gameObject.TryGetComponent(out playerDialogue))
         {
-            dialogueState = DialogueState.Engaged;
+            dialogueState = DialogueState.InRange;
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        dialogueState = DialogueState.NotEngaged;
+        dialogueState = DialogueState.NotInRange;
     }
+}
 
-
+public enum DialogueState
+{
+    NotInRange,
+    InRange,
+    InDialogue,
+    InDialogueOptions,
+    ExitingDialogue
 }

@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] float speed = 5f;
     Rigidbody2D rb;
-
+    public bool enter;
     [SerializeField] KeyCode right;
     [SerializeField] KeyCode left;
     [SerializeField] KeyCode up;
@@ -42,5 +42,9 @@ public class PlayerController : MonoBehaviour
         }
         Vector2 direction = new Vector2(horizontal, vertical);
         rb.velocity = direction * speed;
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        enter = true;
     }
 }
