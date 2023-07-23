@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be180c619b737014e9b04bb0e791c21d, type: 3}
+  m_Name: emma1
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: 'Emma '
+    text: '"Good afternoon, can I help you'
+  - speaker: 'Harvey '
+    text: I'm Detective Harvey, I'm investigating Henry's murder, I'd like to ask
+      you a couple questions.
+  - speaker: 'Emma '
+    text: What... Henry's dead? That can't be, I mean, we just saw him yesterday...
+  - speaker: 'Harvey '
+    text: I know this is hard for you to hear, but I'd like to know what kind of
+      relationship you had with him.
+  - speaker: 'Emma '
+    text: We were fine, we never argued with him, yesterday we sat at his place and
+      drank wine, after that I left, I had to study for an exam at university.
+  - speaker: 'Harvey '
+    text: Have you noticed anything suspicious lately
+  - speaker: 'Emma '
+    text: No, everything's been normal, although I remember a couple days ago Henry
+      was out with his brother, they even got into a fight, I tried to ask him for
+      details but he wouldn't tell me.
+  - speaker: 'Harvey '
+    text: Thanks for your help, if I have any more questions I'll get back to you.

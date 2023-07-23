@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be180c619b737014e9b04bb0e791c21d, type: 3}
+  m_Name: jackdata1
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: 'Jack '
+    text: Good afternoon
+  - speaker: 'Harvey '
+    text: Good afternoon, I'm Detective Harvey, I'm investigating your brother's
+      murder
+  - speaker: 'Jack '
+    text: Yes, the police called me and informed me of this, how can I help you?
+  - speaker: 'Harvey '
+    text: When was the last time you saw Henry?
+  - speaker: 'Jack '
+    text: Over a month ago. It was our last meeting, I wanted to convince him to
+      be a good person but I failed, after that I said I didn't want to see him again.
+  - speaker: 'Harvey '
+    text: Did he have a girlfriend?
+  - speaker: 'Jack '
+    text: Yes, I heard he was seeing one, she works at the store, I'll give you the
+      address.
+  - speaker: 'Harvey '
+    text: You got bruises on your face, did you get in a fight with someone?
+  - speaker: 'Jack '
+    text: That's... I was on night shift last night and we had a violent patient
+      brought in, it's okay.
+  - speaker: 'Harvey '
+    text: Okay, I'll get back to you if I have any more questions.

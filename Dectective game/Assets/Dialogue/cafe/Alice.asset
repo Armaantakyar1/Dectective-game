@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be180c619b737014e9b04bb0e791c21d, type: 3}
+  m_Name: Alice
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: 'Alice '
+    text: How can I help you?
+  - speaker: 'Harvey '
+    text: Good afternoon, I'm Detective Harvey, I'm investigating Henry's murder,
+      I found this note in his hotel room, did you leave it?
+  - speaker: 'Alice '
+    text: Henry is dead? How? But we did...
+  - speaker: 'Harvey '
+    text: How did you know Henry?
+  - speaker: 'Alice '
+    text: Yes, I was in the same mafia with him, I loved him and I wanted us to go
+      to another city together and start a new life. I'm leaving for Ocean City in
+      a couple hours, I was hoping we'd meet up today and he'd come with me.
+  - speaker: 'Harvey '
+    text: Did you know he's in a relationship with Emma?
+  - speaker: 'Alice '
+    text: Yes, I saw Henry occasionally, Emma was jealous of him and so they fought
+      a lot, I was hoping he would leave her and come to me.
+  - speaker: 'Harvey '
+    text: Thanks, I found out everything I needed to know.

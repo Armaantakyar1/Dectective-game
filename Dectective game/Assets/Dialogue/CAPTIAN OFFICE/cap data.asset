@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be180c619b737014e9b04bb0e791c21d, type: 3}
+  m_Name: cap data
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: Captain Ross
+    text: Hey Harvey, did you find anything new?
+  - speaker: 'Harvey '
+    text: no, nothing new.
+  - speaker: Captain Ross
+    text: I found out Henry's only family left is an older brother, he works at the
+      hospital, here's his address.
+  - speaker: 'Harvey '
+    text: Okay, I'll head over there then.
+  - speaker: Captain Ross
+    text: Come back if you find anything.
