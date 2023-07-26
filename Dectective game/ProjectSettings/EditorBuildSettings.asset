@@ -8,4 +8,43 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/1. Black Screen.unity
     guid: aa5e020175cfa4609862822c3ae21047
+  - enabled: 1
+    path: Assets/Scenes/2. Harvey's House.unity
+    guid: cecf205a1b7e54d3b88b3ea5bef72da1
+  - enabled: 1
+    path: Assets/Scenes/3. Crime Scene.unity
+    guid: 890925222408b4cc5827af6852f67b7a
+  - enabled: 1
+    path: Assets/Scenes/4. Harveys House.unity
+    guid: 8a57d413086bc40f884266b1c42a6db4
+  - enabled: 1
+    path: Assets/Scenes/5. Black Screen.unity
+    guid: c5fc45d5e529545ce81f8dd5c97e0014
+  - enabled: 1
+    path: Assets/Scenes/6. Black Screen.unity
+    guid: 6f244ca12e4b345b78c1f12b5d5b0ecb
+  - enabled: 1
+    path: Assets/Scenes/7. Captain Ross Office.unity
+    guid: c8892839c54be444d906767ac566f1e9
+  - enabled: 1
+    path: Assets/Scenes/8. Hospital.unity
+    guid: c54344df44bfc48c595037c28a9055c4
+  - enabled: 1
+    path: Assets/Scenes/9. School.unity
+    guid: 5ecf310dc39724808ba2c72c80d85812
+  - enabled: 1
+    path: Assets/Scenes/10. Cafe.unity
+    guid: 9d89da8bf59774bdfbfa4c4868b8e269
+  - enabled: 1
+    path: Assets/Scenes/11. School.unity
+    guid: 3fe2440dba7d52a4b86386d2439d60e3
+  - enabled: 1
+    path: Assets/Scenes/12. Captain Ross Office.unity
+    guid: 6505eb1660c1a463bbddb4fdeff9a9b2
+  - enabled: 1
+    path: Assets/Scenes/14.1 Black Screen.unity
+    guid: aeb7a3f009c194f58b099c16cd9b6a63
+  - enabled: 1
+    path: Assets/Scenes/14.2 Black Screen.unity
+    guid: e09c7cf91cddc41e9b78bfb89cc081b3
   m_configObjects: {}
