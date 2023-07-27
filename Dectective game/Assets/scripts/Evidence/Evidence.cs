@@ -12,7 +12,6 @@ public class Evidence : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            
             collecter.AddObject(itself);
             collecter.AddEvidence(data);
         }

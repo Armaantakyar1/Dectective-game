@@ -5,6 +5,7 @@ using TMPro;
 
 public class EvidenceCollecter : MonoBehaviour
 {
+    [SerializeField] NotebookGrid notebook;
     [SerializeField] List<int> collectedEvidence = new List<int>();
     [SerializeField] List<GameObject> collectedObjects = new List<GameObject>();
     [SerializeField] List<GameObject> enablingObject = new List<GameObject>();
@@ -32,8 +33,8 @@ public class EvidenceCollecter : MonoBehaviour
         if (firstObject == secondObject)
         {
             enableObject(firstObject);
-            disableObj();
-
+            notebook.RemoveFromGrid(collectedObjects[0]);
+            notebook.RemoveFromGrid(collectedObjects[1]);
         }
 
         collectedEvidence.Clear();
@@ -42,7 +43,7 @@ public class EvidenceCollecter : MonoBehaviour
 
     void enableObject(int index)
     {
-        enablingObject[index].SetActive(true);
+        notebook.AddToGrid(enablingObject[index]);
     }
 
     void disableObj()

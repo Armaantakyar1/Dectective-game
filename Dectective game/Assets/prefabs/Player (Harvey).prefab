@@ -238,6 +238,7 @@ GameObject:
   - component: {fileID: 5391121655339688789}
   - component: {fileID: 5391121655339688791}
   - component: {fileID: 5391121655339688790}
+  - component: {fileID: 835369002}
   m_Layer: 0
   m_Name: Player (Harvey)
   m_TagString: Untagged
@@ -395,6 +396,19 @@ MonoBehaviour:
   dialogueOptionsPrefab: {fileID: 5817187700456387522, guid: d0caa3c8a08afc94bab6c395d14a4fc6, type: 3}
   dialogueSpeaker: {fileID: 6618311696238671256}
   dialogueLine: {fileID: 6618311697640528540}
+--- !u!114 &835369002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5391121655339688776}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242e34ec03c3c074db6bd3145676356a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pieces: []
 --- !u!1 &5391121657276023472
 GameObject:
   m_ObjectHideFlags: 0
@@ -833,13 +847,13 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1227771830184703574, guid: c81a4cd5a18a2b744be20f6aabf9c84b, type: 3}
   m_PrefabInstance: {fileID: 5391121655268355478}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &6618311697544505305 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1227771830058371663, guid: c81a4cd5a18a2b744be20f6aabf9c84b, type: 3}
-  m_PrefabInstance: {fileID: 5391121655268355478}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &6618311697544505304 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1227771830058371662, guid: c81a4cd5a18a2b744be20f6aabf9c84b, type: 3}
+  m_PrefabInstance: {fileID: 5391121655268355478}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6618311697544505305 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1227771830058371663, guid: c81a4cd5a18a2b744be20f6aabf9c84b, type: 3}
   m_PrefabInstance: {fileID: 5391121655268355478}
   m_PrefabAsset: {fileID: 0}

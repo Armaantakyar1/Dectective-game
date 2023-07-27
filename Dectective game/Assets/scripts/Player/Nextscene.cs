@@ -17,4 +17,8 @@ public class Nextscene : MonoBehaviour
     {
         NewScene(sceneName);
     }
+    public void Quit()
+    {
+        Application.Quit();
+    }
 }

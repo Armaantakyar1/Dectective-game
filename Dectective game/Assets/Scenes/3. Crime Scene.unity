@@ -141,7 +141,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &162735114
 Transform:
   m_ObjectHideFlags: 0
@@ -173,6 +173,7 @@ MonoBehaviour:
   enter: 0
   UI: {fileID: 0}
   text: 
+  evidence: {fileID: 0}
 --- !u!114 &162735116
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -380,6 +381,7 @@ MonoBehaviour:
   enter: 0
   UI: {fileID: 1181365576}
   text: 'One wound on the forehead, one on the back of the head.  '
+  evidence: {fileID: 0}
 --- !u!1 &235722476
 GameObject:
   m_ObjectHideFlags: 0
@@ -591,6 +593,7 @@ MonoBehaviour:
   enter: 0
   UI: {fileID: 1181365576}
   text: There are traces of blood on the corner of the table
+  evidence: {fileID: 0}
 --- !u!114 &393162111
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -746,6 +749,7 @@ MonoBehaviour:
   enter: 0
   UI: {fileID: 1181365576}
   text: 'meeting at Cafe on 3rd Avenue, tomorrow evening.  '
+  evidence: {fileID: 0}
 --- !u!1 &469559530
 GameObject:
   m_ObjectHideFlags: 0
@@ -791,7 +795,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &528357868
 GameObject:
@@ -959,6 +963,77 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &723643431
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 723643434}
+  - component: {fileID: 723643433}
+  - component: {fileID: 723643432}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &723643432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 723643431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbcfda1e955b573429d7fe80fe67fdc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 4. Harveys House
+--- !u!61 &723643433
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 723643431}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.06620026, y: -0.047285914}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.1324005, y: 1.6241724}
+  m_EdgeRadius: 0
+--- !u!4 &723643434
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 723643431}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 20.7, y: -4.18, z: -2.3593729}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &731847235
 GameObject:
   m_ObjectHideFlags: 0
@@ -1102,6 +1177,7 @@ MonoBehaviour:
   enter: 0
   UI: {fileID: 1181365576}
   text: 'One of the glasses of wine has a woman''s lipstick on it. '
+  evidence: {fileID: 0}
 --- !u!1 &733101081
 GameObject:
   m_ObjectHideFlags: 0
@@ -1230,7 +1306,8 @@ MonoBehaviour:
   found: 0
   enter: 0
   UI: {fileID: 1181365576}
-  text: ' Damaged wine bottle.'
+  text: There is a broken wine bottle inside.
+  evidence: {fileID: 0}
 --- !u!114 &733101086
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2239,6 +2316,7 @@ GameObject:
   - component: {fileID: 907119635}
   - component: {fileID: 907119636}
   - component: {fileID: 907119637}
+  - component: {fileID: 907119638}
   m_Layer: 0
   m_Name: dialog2
   m_TagString: Untagged
@@ -2299,6 +2377,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 4.2279234}
   m_EdgeRadius: 0
+--- !u!114 &907119638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 907119634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6f06b399d3085e49b2c769a195a4791, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BoxSet: {fileID: 723643433}
 --- !u!1 &924877274
 GameObject:
   m_ObjectHideFlags: 0
@@ -4112,8 +4203,8 @@ GameObject:
   - component: {fileID: 1179780636}
   - component: {fileID: 1179780635}
   - component: {fileID: 1179780638}
-  - component: {fileID: 1179780637}
   - component: {fileID: 1179780639}
+  - component: {fileID: 1179780637}
   m_Layer: 0
   m_Name: NPC (Hotel Manager)
   m_TagString: Untagged
@@ -4195,14 +4286,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1179780634}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2c31a7bb78477b84c83529b0d9a16997, type: 3}
+  m_Script: {fileID: 11500000, guid: 3f583a4a4fe5bc041806fe7b945ee194, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  manager: {fileID: 469559531}
   found: 0
   enter: 0
-  UI: {fileID: 1181365576}
-  text: 
+  book: {fileID: 0}
+  evidence: {fileID: 0}
 --- !u!61 &1179780638
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4295,7 +4385,7 @@ Transform:
   m_LocalScale: {x: 1, y: 2.646875, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1301757626
 GameObject:
@@ -95478,52 +95568,6 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!1 &1543372911
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1543372913}
-  - component: {fileID: 1543372912}
-  m_Layer: 0
-  m_Name: notebook
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1543372912
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1543372911}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ba5b1d995b3a784e80c260f2a21bd3e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  collectedEvidence: 
-  collectedObjects: []
-  enablingObject: []
---- !u!4 &1543372913
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1543372911}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.83, y: -3.69, z: -10.778441}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1794748786
 GameObject:
   m_ObjectHideFlags: 0

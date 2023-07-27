@@ -9,24 +9,27 @@ public class EvidencePicker : MonoBehaviour
     [SerializeField] bool enter = false;
     [SerializeField] EvidenceUI UI;
     [SerializeField] string text;
+    NotebookGrid book;
+    [SerializeField] GameObject evidence;
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space)&& enter == true)
         {
             UI.UiTextEnable(text);
-            if (found == false)
-            {
-
-                manager.FoundEvidence();
-                found = true;
-            }
 
         }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        book = collision.GetComponent<NotebookGrid>();
+        if (Input.GetKeyDown(KeyCode.Space) && found == false)
+        {
+            book.Addition(evidence);
+            manager.FoundEvidence();
+            found = true;
+        }
         enter = true;
     }
 

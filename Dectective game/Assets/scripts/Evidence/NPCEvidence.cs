@@ -4,15 +4,30 @@ using UnityEngine;
 
 public class NPCEvidence : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    
+    [SerializeField] bool found = false;
+    [SerializeField] bool enter = false;
+    [SerializeField] NotebookGrid book;
+    [SerializeField] GameObject evidence;
+
+
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        
+        book = collision.GetComponent<NotebookGrid>();
+        if (Input.GetKeyDown(KeyCode.Space) && found == false)
+        {
+            book.Addition(evidence);
+
+            found = true;
+        }
+        enter = true;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerExit2D(Collider2D collision)
     {
         
+        enter = false;
     }
+
 }
