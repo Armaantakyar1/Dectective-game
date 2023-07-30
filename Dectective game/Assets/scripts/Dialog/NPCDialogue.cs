@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class NPCDialogue : MonoBehaviour
 {
     DialogueState dialogueState = DialogueState.NotInRange;
-    PlayerDialogue playerDialogue;
+    [SerializeField]PlayerDialogue playerDialogue;
     Queue<string> dialogueText = new Queue<string>();
     Queue<string> dialogueSpeaker = new Queue<string>();
     [SerializeField] Dialogue dialogue;

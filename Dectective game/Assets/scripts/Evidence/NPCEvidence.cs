@@ -15,7 +15,7 @@ public class NPCEvidence : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         book = collision.GetComponent<NotebookGrid>();
-        if (Input.GetKeyDown(KeyCode.Space) && found == false)
+        if ( found == false && Input.GetKeyDown(KeyCode.Space))
         {
             book.Addition(evidence);
 
