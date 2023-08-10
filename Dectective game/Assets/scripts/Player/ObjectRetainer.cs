@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ObjectRetainer : MonoBehaviour
 {
-    [SerializeField] NotebookGrid notebook;
+    [SerializeField] GameObject notebook;
     void Awake()
     {
         DontDestroyOnLoad(notebook);

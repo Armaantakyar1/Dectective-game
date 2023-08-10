@@ -15,7 +15,11 @@ public class Nextscene : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        NewScene(sceneName);
+        if (collision.CompareTag("Player"))
+        {
+            NewScene(sceneName);
+        }
+        
     }
     public void Quit()
     {

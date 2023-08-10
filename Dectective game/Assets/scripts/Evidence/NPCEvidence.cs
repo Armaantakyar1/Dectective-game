@@ -6,7 +6,6 @@ public class NPCEvidence : MonoBehaviour
 {
     
     [SerializeField] bool found = false;
-    [SerializeField] bool enter = false;
     [SerializeField] NotebookGrid book;
     [SerializeField] GameObject evidence;
 
@@ -14,20 +13,32 @@ public class NPCEvidence : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        book = collision.GetComponent<NotebookGrid>();
-        if ( found == false && Input.GetKeyDown(KeyCode.Space))
+        if (collision.CompareTag("Player"))
         {
-            book.Addition(evidence);
+            book = collision.GetComponent<NotebookGrid>();
+            if (found == false && Input.GetKeyDown(KeyCode.Space) && book != null)
+            {
+                book.Addition(evidence);
 
-            found = true;
+                found = true;
+            }
         }
-        enter = true;
     }
 
-    private void OnTriggerExit2D(Collider2D collision)
+    private void OnTriggerStay2D(Collider2D collision)
     {
         
-        enter = false;
+        if (collision.CompareTag("Player"))
+        {
+            book = collision.GetComponent<NotebookGrid>();
+            if (found == false && Input.GetKeyDown(KeyCode.Space) && book != null)
+            {
+                book.Addition(evidence);
+
+                found = true;
+            }
+        }
+
     }
 
 }

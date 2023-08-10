@@ -11,7 +11,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] int evidenceFound;
     void Update()
     {
-        if (evidenceFound >= 6 && open == false)
+        if (evidenceFound >= 5 && open == false)
         {
             newDialog.SetActive(true);
             oldDialog.SetActive(false);
